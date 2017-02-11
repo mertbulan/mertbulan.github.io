@@ -1,5 +1,5 @@
 GIT
-  remote: /Users/mert/Documents/GitHub/swiss
+  remote: git://github.com/mertbulan/swiss.git
   revision: 8c24514efe58bf61fea0d9d242a1cddd04b80bd1
   specs:
     jekyll-swiss (0.5.0)
