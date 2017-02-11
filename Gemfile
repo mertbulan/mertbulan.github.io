@@ -3,7 +3,7 @@ ruby "2.3.1"
 
 gem "jekyll", "3.3.1"
 #gem "jekyll-swiss", git: "/Users/mert/Documents/GitHub/swiss"
-gem "jekyll-swiss", github: 'mertbulan/swiss'
+gem "jekyll-swiss-mert", github: 'mertbulan/swiss'
 gem 'pygments.rb', '~> 0.6.3'
 
 group :jekyll_plugins do

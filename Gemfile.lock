@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/mertbulan/swiss.git
-  revision: 8c24514efe58bf61fea0d9d242a1cddd04b80bd1
+  revision: 84d2ae3b39e8d73a4eefd9d47d1cc7c31832d910
   specs:
-    jekyll-swiss (0.5.0)
+    jekyll-swiss-mert (0.5.0)
       jekyll-feed (~> 0.8)
       jekyll-sitemap (~> 0.12)
 
@@ -87,7 +87,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.6)
   jekyll-paginate
-  jekyll-swiss!
+  jekyll-swiss-mert!
   pygments.rb (~> 0.6.3)
 
 RUBY VERSION

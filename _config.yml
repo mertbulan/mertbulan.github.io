@@ -31,7 +31,7 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-swiss
+theme: jekyll-swiss-mert
 #paginate: 10
 gems:
   - jekyll-feed
