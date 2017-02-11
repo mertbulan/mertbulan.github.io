@@ -31,10 +31,10 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-swiss
 #paginate: 10
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
