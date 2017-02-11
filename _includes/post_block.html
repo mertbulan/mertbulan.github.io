@@ -1,6 +1,16 @@
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2 prose">
   <a class="no-underline h5 bold text-accent" title="{{ post.url | relative_url }}" href="{{ post.url | relative_url }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+
+  <span class="reading-time" title="Estimated read time">
+    {% assign words = post.content | number_of_words %}
+    {% if words < 360 %}
+      | okuma süresi: 1 min
+    {% else %}
+      | okuma süresi: {{ words | divided_by:180 }} dakika
+    {% endif %}
+  </span>
+
   <h2 class="h1 lh-condensed col-9 mt-0">
     <a class="link-primary" title="{{ post.url | relative_url }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h2>

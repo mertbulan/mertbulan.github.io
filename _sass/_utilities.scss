@@ -76,6 +76,8 @@
 .left { float: left; }
 .right { float: right; }
 
+.inline { display: inline-block; }
+
 .clearfix:before,
 .clearfix:after {
   content: " ";
