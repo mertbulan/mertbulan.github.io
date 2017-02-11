@@ -1,0 +1,49 @@
+---
+title: TazeDirekt’in kapanmasına neden olan 8 hata
+---
+
+Kendi ürettiği organik ürünleri internet üzerinden müşterilerine ulaştıran TazeDirekt bugün itibariyle kapandı.
+
+TazeDirekt'i ilk çıktığı günden bu yana takip ediyordum. Hatta sık sık gözüme çarpan hataları mail atıp, işin gelişmesine katkıda bulunacak fikirlerimi kendileriyle paylaşıyordum. Bununla birlikte eğer kabul ederlerse önümüzdeki yaz kendilerinin yanında staj yapmayı bile düşünüyordum. Bu nedenle bugün aldığım haber benim için şok etkisi yarattı diyebilirim.
+
+TazeDirekt'te staj yapmayı isteme nedenim hem yeni bir şirket olmaları, hem organik gıda gibi herkese dokunan bir iş yapmaları, hem üretimden dağıtıma kadar tüm kontrollerin kendilerinde olmaları hem de gördüğüm birçok eksiği bizzat kapatma şansı bulacak olmamdı. Bugünkü haberi aldıktan sonra bu eksiklikleri ya da hataları artık kendileriyle paylaşamayacak olmamdan dolayı ben de bu yazıyı yazmaya karar verdim.
+
+### 1. Ürünü Anlatamama
+
+Daha önce piyasada bulunmayan bir ürün satarsanız fiyatını siz belirleyebilirsiniz. Bu sayede müşteriler için o ürün fiyatının çapası sizin belirleyeceğiniz fiyat olur. Bundan sonra müşteri alacağı ürünler için maksimum sizin belirlediğiniz o fiyatı öder. Konu organik ürünler olduğunda böyle bir şansınız olmuyor. Binlerce yıldır tarım yapıldığından ve insanlar hemen hemen her hafta market alışverişi yaptığından bu çıpalar daha önce belirlenmiş oluyor. Dolayısıyla siz piyasaya bu çıpadan yüksek bir fiyatla girerseniz kullanıcıların sizi tercih etme şansını azaltırsınız. TazeDirekt'in yaptığı ilk hata buydu. Markette alabileceğiniz ürünleri %30-50 daha pahalıya satıyordu. Dolayısıyla çoğu kişi tercih etmiyordu. Türkiye'de internetten alışveriş yapanların internetten alışveriş yapma nedenlerine bakarsanız ilk sırada uygun fiyatı görürsünüz. Hal böyle olunca TazeDirekt 1-0 yenik başladı maça.
+
+Maça yedik başlasanız da bunu kendi lehinize çevirme şansınız olur. Türkiye'de birçok insan pazardan alışveriş yapar. Direk köylüden aldığından dolayı da ürünün organik olduğunu varsayar. Dolayısıyla kendi gözünde hem organik hem uygun fiyatlı ürün almış olur. TazeDirekt kendi ürünlerinin gerçekten organik  ve pazardan aldıkları ürünlerden farklı olduğunu uzun uzun anlatması gerekiyordu. Bunun yerine kendileri ürün açıklaması kısmına 2 cümle yazmakla yetinmişlerdi. Bana göre burada kullanılan toprağın yapısı, kullanılan tohumun yapısı, en son ne zaman hasat edildiği, nasıl yetiştirildiği, nasıl hasat edildiği, ne tür gübre kullanıldığı, hayvan ne ile beslendiği, hayvanın yaşama koşulu, hayvanın nasıl kesildiği, etlerin nasıl paketlendiği ve benzeri şekilde bir sebzenin yetişme koşullarıyla ilgili her türlü bilgi yer alması gerekiyordu. Bu sayede müşteriler bu ürünün pazardan aldıkları üründen farklı olduğunu görebilirlerdi. Çünkü bu ürün hakkında pazardan aldıklarından daha fazla şey bilirlerdi. Haliyle pazarda ya da markette satılan ürünle arasındaki fiyat farkını görmezden gelebilir ya da bu fiyata değdiğini düşünürlerdi.
+
+Bahsettiğim bu detaylı ürün açıklamasına Amazon'un kendi ürettiği bez ve ıslak mendil ürün sayfasına bakarak görebilirsiniz. Ya da Apple'ın kendi ürünleri için yazdığı uzun uzun detaylı açıklamaları buna örnek olarak gösterebilirim. TazeDirekt ürettiği her ürüne bir iPhone ya da iPad'miş gibi davranması gerekiyordu.
+
+### 2. Çok fazla ürün çeşitliliği
+
+Ürün sayısını ne kadar arttırırsanız odak noktanız da o kadar dağılır. TazeDirekt başlangıçta meyve, sebze, kırmızı et ve süt ve süt ürünleri ile yola çıkmıştı. Olması gereken de buydu. Daha fazla ürün eklememeleri gerekiyordu. Bu ürünlere odaklanıp her ürün için özel detaylı bir sayfa oluşturmaları gerekiyordu. Ürünlerinin kalitesini arttırmaları gerekiyordu. Ama bunun yerine kendileri markette bile bulabileceğiniz ürünler satmaya başladı. Yeni bir şirketseniz ürün çeşitliliğinizi bu kadar çok arttırmanız operasyonel anlamda sizi zor duruma düşürür. Apple'ın bugün çok az ürün üretmesinin nedeni bu. TazeDirekt, kendisinin üretici olduğunu unutup tıpkı bir market gibi davranmaya kalkıştı. Sürekli ürün çeşitliliğini arttırdı da arttırdı.
+
+### 3. Hızlı yayılma
+
+TazeDirekt'in yaptığı bir diğer hata diğer illere açılmasıydı. Bu da yeni bir şirketseniz yapabileceğiniz büyük hatalardan biridir. Özellikle de operasyonel anlamda bir iş yapıyorsanız. Önce İstanbul'daki ağı kârlı hale getirdikten sonra diğer illere açılmaları gerekiyordu. Daha İstanbul'daki dağıtım ağı kârlı değilken nasıl diğer iller kârlı olabilir ki? İstanbul'daki tüm şubeleriniz full kapasite çalışıyor ve İstanbul'daki internetten organik alışveriş pazarı doyuma ulaştı mı ki hemen diğer illere açılıyorsunuz? Apple'ın ABD dışına mağaza açması birkaç yıl almıştı. Daha bundan birkaç sene önce Türkiye'ye geldi. Şuanda sadece 18 ülkede mağazası var. Dünyanın en değerli şirketi de olsanız bu tarz bir yayılmayı yavaş yavaş ve emin adımlarla yapmanız gerek.
+
+### 4. Televizyona reklam verme
+
+İnternetten salatalık satıyorsunuz. Hedef kitleniz başlangıç olarak gerçekten küçük. İnternetten alışveriş yapan bir kitleyi hedefliyorsunuz. Bunların bir şekilde size güvenerek sizden sebze-meyve almasını bekliyorsunuz. Bu tarz riskleri alarak internetten organik meyve-sebze alışverişi yapan kitle daha eğitimli bir kitle ve ben açıkçası bu eğitimli kitleye televizyon reklamlarıyla ulaşılacağını düşünmüyorum. (bugün bile hala internetten sebze mi alınır diyen birçok insan görebilirsiniz, ben aldım hatta pazardakinden daha iyiydi) Daha önceki 
+[yazımda](/2015/10/17/televizyon-reklamlari-ne-kadar-satis-yaptiriyor/) televizyon reklamlarıyla ilgili verilere ulaşılamadığından söz etmiştim. Bugün televizyona reklam verseniz, reklamı kaç kişinin izlediğini ve kaç kişinin bu reklamı izledikten sonra sitenize geldiğini ölçemezsiniz. Bana göre ölçemediğiniz reklam sizin değildir. Buna ek olarak televizyona verilen reklamın ne kadar maliyetli olduğuna da değinmek lazım. Hele bir de internet şirketiyseniz SEO ve SEM varken yapacağınız en büyük hata televizyona reklam vermektir.
+
+### 5. Teknolojiyi kullanmama
+
+İnternet şirketiyseniz teknolojiyle de iç içesinizdir. Bununla birlikte günümüzden sizi rakiplerinizden ayıracak en önemli şey yaptığınız teknolojik çalışmalardır. Bir başkası sizin iş modelinizi taklit edebilir ki zaten TazeDirekt'e benzer birçok iş görebilirsiniz. Ancak ne zaman ki siz Ar-Ge yapıp kendi teknolojilerinizi üretirseniz bir başkasının sizi yakalaması oldukça zorlaşır. TazeDirekt'in yapması gereken şey de buydu. Bir internet şirketi olduklarının farkına varıp ona göre davranmak. Ancak onlar bunun yerine sıradan bir online market gibi davrandılar. Daha önceki 
+[yazımda](/2016/01/28/gezgin-satici-problemi-ve-kargoculuk/) gezgin satıcı problemi aracılığıyla nasıl dağıtım rotası hesaplanacağından bahsetmiştim. Açıkçası ben TazeDirekt'in şirket içerisinde böyle bir teknoloji geliştirip dağıtım rotalarını bu problemde kullanılan algoritma ile hazırlayarak en verimli dağıtım ağına sahip olmalarını bu sayede hem paradan hem de zamandan tasarruf etmelerini beklerdim.
+
+### 6. Ağızdan ağıza pazarlama
+
+Gelmiş geçmiş en başarılı pazarlama tekniği ağızdan ağıza pazarlamadır. Bunu yapabilmeniz içinse müşterilerinize, arkadaşlarına anlatacakları hikayeler vermeleriniz gerek. İlk maddede bahsettiğim ürünü doğru anlatamama durumdan dolayı müşterilerin de anlatacak hikayelere sahip olmadığı sonucunu çıkartabiliriz. Eğer siz uzun uzun ürün açıklaması yazıp, ürününüz hakkında detaylar verirseniz müşterileriniz de arkadaşlarına o üründen bahsederken sizin anlattığınız o detayları arkadaşlarına anlatır. Bu sayede ürününüzün hikayesi ağızdan ağıza yayılır. Bugün PC pazarı küçülürken Mac satışları artıyorsa bunun nedeni Apple'ın Mac reklamları yapması değil, Mac kullanıcılarının arkadaşlarına Mac bilgisayarları ile yaşadıkları deneyimi ve Mac'in özelliklerini anlatmasıdır. Apple kimseye arkadaşını getir 50 TL indirim kazan diye bir kampanya yapmıyor, onu bırakın Apple kendi mağaza çalışanlarına yaptıkları satışlardan komisyon bile vermiyor.
+
+### 7. Kullanıcı deneyimi
+
+Ne iş yaparsanız yapan en başta öncelik vermeniz gereken şey kullanıcı deneyimidir. İnternet işi yapıyorsanız kullanıcılara yaşatacağınız deneyim yapmış olduğunuz siteden geçer. TazeDirekt'te ise gerek ürün sayfası olsun gerek anasayfası olsun birçok alanda UX hatası göze çarpıyordu. Bunlardan bence en bariz olanı sol taraftaki menüde gezinmeydi. Mouse imleciniz ile ana menüden alt menüye geçmek için en kısa yol olan çapraz yolu tercih etmek yerine L yaparak alt menüye geçmeniz gerekiyordu. 
+
+### 8. Sürekli indirim ve hediye
+
+Sadece TazeDirekt'te değil birçok e-ticaret sitesinde gördüğüm bana göre en büyük hatalardan bir tanesi de bu. Tüm siteler sürekli kullanıcılarına indirimler ve hediye çekleri veriyor. Bu yapabileceğiniz en büyük hatalardan bir diğeri. Böyle yaparsanız kullanıcılar sizi ürününüz için değil yapmış olduğunuz indirimler için tercih eder. Bu indirimleri sürekli yapamacak olmanızdan dolayı siz bu indirimleri kestiğiniz an kullanıcılar da başka alternatiflere yönelir. TazeDirekt'in bugün sipariş verenlere şu ürün hediye şeklindeki yaptığı kampanyalar buna örnek olarak verilebilir. Bunu gören kullanıcılar da haliyle alışveriş yapacakları o gün hediye verilip verilmediğine bakabilir. Verilmiyorsa nasıl olsa sürekli verdiklerinden alışverişini bugün değil de yarına erteleyebilir. Arkadaşını getir 50 TL hediye çeki kazan da benzer şekilde bir diğer örnek. İnsanlar ürünlerinizi verdiğiniz indirim için değil gerçekten kaliteli ürün ve hizmet sunduğunuz için arkadaşlarına tavsiye etmeli.
+
+Eğer TazeDirekt kapanmasaydı ve ben staja kabul edilseydim düzelteyeceğim ya da düzeltilmesine katkıda bulunacağım hatalar bunlardı. Gönül isterdi ki farklı bir son olsun ama TazeDirekt'in bi anda böyle kapanması en çok beni üzdü sanırım.

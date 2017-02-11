@@ -1,0 +1,15 @@
+---
+title: 'Bu kitabı okuyun: Akıldışı Ama Öngörülebilir'
+---
+
+Nasıl evrende (neredeyse) her şeyin bir açıklaması varsa bazı akıldışı davranışlarımızın da açıklaması var.
+
+Sevgili abim Burak Dönertaş'ın tavsiyesi üzerine Akıldışı Ama Öngörülebilir isimli kitabı okumaya başladım ve bugün itibariyle de bitirdim. Kitabı çok beğendiğimi söylemeliyim. Kitap günlük hayatımızda bir şeyler yapmaya karar verirken yapmış olduğumuz akıldışı bazı davranışları ele alıyor. Örneğin televizyon almak istediğimizde bize 3 farklı boyutta ekran seçeneği sunulduğunda bizim genellikle ortadakini seçmemiz gibi. Bunu bilen satıcılar da tabii ki en çok satmak istediklerini ortadaki seçeneğe koyuyorlarmış. Kitapta buna benzer birçok örnek var. Kitabın yazarı Dan Ariely bu akıldışı davranışların hepsini yapmış olduğu testlerle doğruluyor.
+
+Kitapta bahsedilen davranışlardan bir tanesini çok ilgimi çektiğinden ben de test etmek istedim. Bu test insanların bedavaya karşı olan zafiyetiyle ilgiliydi. Bir kişiye bedava 10 TL'lik hediye çeki ve 7 TL ödemesi karşılığında 20 TL'lik hediye çeki şeklinde 2 seçenek sunduğunuzda çoğunluk ilk seçeneği yani bedava olanı tercih ediyormuş. Halbuki ilk seçenekte 10 TL'lik hediye çekine sahip oluyorken, ikinci seçenekte 13 TL'lik bir hediye çekine sahip oluyorsunuz. Dolayısıyla düşününce ikinci seçeneği seçmek daha mantıklı görünüyor. Twitter'ın anket özelliğiyle takipçilerime bu soruyu sordum ve ortaya şöyle bir sonuç çıktı:
+
+<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Size bedavaya 10 TL&#39;lik iTunes hediye çeki ve 7 TL&#39;ye 20 TL&#39;lik hediye çeki sunsam hangisini tercih edersiniz?</p>&mdash; Mert Bulan 🤖 (@mertbulan) <a href="https://twitter.com/mertbulan/status/693206949459025920">29 Ocak 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Görüldüğü gibi yazarın bahsettiği akıldışı davranış oldukça doğru ve evrensel olma özelliği taşıyor. Bu sonucu gördükten sonra bir sonraki akıldışı davranışları büyük bir heyecanla okuduğumu söyleyebilirim.
+
+Neden bara gittiğimizde siparişimizi açık verdiğimizde farklı kapalı verdiğimizde (diğer sipariş veren arkadaşlarımızın siparişini bilmeden) farklı sipariş verdiğimiz, ilk defa yeni bir ürün aldıktan sonra o ürüne benzer şeyler alırken neden ilk aldığımız ürünün fiyatını hep gözününde bulundurduğumuz, eğer fırsat verilirse dürüst insanların bile hile yapmaktan çekinmediği, neden birisinden ufak bir iyilik isterken ona asla para teklif etmememiz gerektiği gibi birçok akıldışı davranış kitapta derinlemesine incelenmiş. Eğer bu konular ilginizi çekiyor ve sizin de farketmeden yaptığınız bu akıldışı davranışların farkına varıp davranışlarınızı mantıklı hale getirmek ya da bu bilgileri işinize uygulayarak işinizi daha başarılı hale getirmek istiyorsanız (etiklik konusunu daha sonra tartışabiliriz) kesinlikle bu kitabı okumalısınız.

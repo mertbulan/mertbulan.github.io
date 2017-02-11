@@ -1,0 +1,15 @@
+---
+title: Apple, araba pazarında gerçekten başarılı olabilir mi?
+---
+
+Dedikodulara göre 2019 yılında ilk arabasını piyasaya sürecek olan Apple'ın önünde ne gibi engeller yer alıyor?
+
+Apple, bugün bilgisayardan akıllı telefona, akıllı saatten tablete kadar gerçekten harika bir ürün yelpazesine sahip. Şu sıralara sıkça çıkan dedikodulara göre Apple, önümüzdeki yıllarda araba pazarına da girmeyi düşünüyor. 203 milyar dolar nakiti olan Apple söz konusu olduğunda çoğu kişi bu konuda heyecanlanıyor ve Apple'ın bu işin altından kalkabileceğini söylüyor. Ancak gerçekler pek de düşünüldüğü gibi o kadar kolay değil.
+
+Elon Musk'ın şirketi Tesla için şuanda elektrikli araba sektöründe rakipiz diyebiliriz sanırım. Ürettikleri arabalar dünyanın en iyi arabaları. Tesla bu seviyeye gelmek için çok fazla çalıştı, hatta Apple'daki birçok üst düzey mühendisi de bünyesine kattı. Şuanda bile Apple'daki birçok çalışan işine giderken Tesla Model S kullanıyor, kullandıktan sonra da haliyle neden bu şirket için çalışmayayım diye düşünüyorlardır diye tahmin ediyorum. Tesla'nın şuanda tek sorunu ise zaman. Elektrikli araba ürettiğinden, diğer arabalara oranla farklı bir montaj hattı kullanıyor. Daha önce bu kadar büyüklükte bir elektrikli araba üretimi olmadığından kendileri bu montaj hattını da tasarlıyor. Hal böyle olunca Tesla'nın ürettiği araba sayısı çok düşük seviyelerde oluyor ve daha arabalar üretilmeden satılmış oluyor. Şuanda yılda 50 bin civarında araba üretiliyor ve hepsi satılıyor.
+
+Apple halihazırdaki ürünlerini üretmek için onlarca ülkeden yüzlerce fabrikadan parça tedarik ediyor ve bunları Çin'deki fabrikalarda birleştiriyor. Buraya kadar her şey güzel. Ancak iş elektrikli arabalara gelince her şey bu kadar olay olmayacak. Çünkü Apple, akıllı telefon üretiyorken akıllı telefon parçaları üreten yüzlerce firma hali hazırda vardı. Telefonu birleştirecek onlarca fabrika da vardı. Ama araba için aynı şey söz konusu değil. Sektörde çok fazla oyuncu olmadığında parçaları üreten yeterli firmalar yok. Olsa bile bu parçaları birleştirebilecek yüksek hacimli bir montaj hattı yok.
+
+Elon Musk, en son verdiği röportajda Apple için "Foxconn'a gidip bana bir araba yap diyemezsin" diyor. Ve ne yazıkki kendisi haklı da. Apple pazara girene kadar birçok parça üreticisi olacaktır, hatta Apple'ın pil konusunda parça tedarikçilerinden biri Tesla bile olabilir. Ancak iş montaja gelince Apple'ın bu konuda bir iş partneri bulması çok zor görünüyor. Bunun için kendi fabrikasını kurmak zorunda kalabilir.
+
+Kısacası, Apple araba sektörüne girebilir ancak iPhone'da gösterdiği başarıyı araba sektöründe gösteremeyebilir. Her ne kadar limitsiz diyebileceğimiz kaynağı olsa da zaman limiti Apple'ın elini kolunu bağlayabilir. O zamana kadar Tesla, Model 3'ü yani yüksek hacimli üretilecek olan ve uygun fiyatlı modelini satışa sunmuş olacaktır. Apple pazara girmesine girer ama şuanki içten yanmalı motora sahip araba üreten firmalar arasında Toyota ya da Volkswagen olmak yerine en fazla Porsche ya da Ferrari seviyesinde pahalı ve düşük hacimli üretim yapan bir firma olur.

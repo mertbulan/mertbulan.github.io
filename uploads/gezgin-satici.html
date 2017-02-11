@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Draggable directions</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+        float: left;
+        width: 63%;
+        height: 100%;
+      }
+      #right-panel {
+        float: right;
+        width: 34%;
+        height: 100%;
+      }
+#right-panel {
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+  padding-left: 10px;
+}
+
+#right-panel select, #right-panel input {
+  font-size: 15px;
+}
+
+#right-panel select {
+  width: 100%;
+}
+
+#right-panel i {
+  font-size: 12px;
+}
+
+      .panel {
+        height: 100%;
+        overflow: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="right-panel">
+      <p>Total Distance: <span id="total"></span></p>
+      <a href="gezgin-satici-2.html">Optimize Edilmiş Hali</a>
+    </div>
+    <script>
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 15,
+    center: {lat: 40.992210, lng: 29.100285}  // Australia.
+  });
+
+
+  var directionsService = new google.maps.DirectionsService;
+  var directionsDisplay = new google.maps.DirectionsRenderer({
+    draggable: true,
+    map: map,
+    panel: document.getElementById('right-panel')
+  });
+
+  directionsDisplay.addListener('directions_changed', function() {
+    computeTotalDistance(directionsDisplay.getDirections());
+  });
+
+  displayRoute({lat: 40.992210, lng: 29.100285}, {lat: 40.992210, lng: 29.100285}, directionsService,
+      directionsDisplay);
+}
+
+
+
+function displayRoute(origin, destination, service, display) {
+  var rota = new google.maps.LatLng(40.990109, 29.095101);
+  var rota2 = new google.maps.LatLng(40.992931, 29.095564);
+  var rota3 = new google.maps.LatLng(40.993166, 29.091230);
+  var rota4 = new google.maps.LatLng(40.991328, 29.090340);
+  var rota5 = new google.maps.LatLng(40.987659, 29.089696);
+  var rota6 = new google.maps.LatLng(40.986663, 29.094331);
+  var rota7 = new google.maps.LatLng(40.997855, 29.101991);
+  var rota8 = new google.maps.LatLng(40.999171, 29.095725);
+
+  service.route({
+    origin: origin,
+    destination: destination,
+    waypoints: [{location: rota}, {location: rota2}, {location: rota3}, {location: rota4}, {location: rota5},
+                {location: rota6}, {location: rota7}, {location: rota8}],
+    travelMode: google.maps.TravelMode.DRIVING,
+    avoidTolls: true
+  }, function(response, status) {
+    if (status === google.maps.DirectionsStatus.OK) {
+      display.setDirections(response);
+    } else {
+      alert('Could not display directions due to: ' + status);
+    }
+  });
+}
+
+function computeTotalDistance(result) {
+  var total = 0;
+  var myroute = result.routes[0];
+  for (var i = 0; i < myroute.legs.length; i++) {
+    total += myroute.legs[i].distance.value;
+  }
+  total = total / 1000;
+  document.getElementById('total').innerHTML = total + ' km';
+}
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoBFDregKXihETAvlEM139NL5jPfi4JzA&signed_in=true&callback=initMap"
+        async defer></script>
+  </body>
+</html>

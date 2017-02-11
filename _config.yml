@@ -32,6 +32,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-swiss
+#paginate: 10
 gems:
   - jekyll-feed
 exclude:
