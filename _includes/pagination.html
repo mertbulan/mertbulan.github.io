@@ -1,13 +1,19 @@
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+<div class="clearfix mt-2">
+  <div class="container mx-auto px-2"> 
+    {% if paginator.total_pages > 1 %}
+    <ul class="col-10 sm-width-full left py-2 mb-0 pagination">
+      {% if paginator.previous_page %}
+      <li class="inline left">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&#8592; Yeni yazılar</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="inline right">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Eski yazılar &#8594;</a>
+      </li>
+      {% endif %}
+    </ul>
+    {% endif %}
+  </div>
 </div>
+

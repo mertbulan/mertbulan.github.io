@@ -31,10 +31,18 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-#paginate: 10
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate-v2
 exclude:
   - Gemfile
   - Gemfile.lock
