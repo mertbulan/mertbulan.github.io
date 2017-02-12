@@ -4,13 +4,16 @@ layout: default
 <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
   <h1 class="h0 col-9 sm-width-full py-4 mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
   <div class="col-4 sm-width-full mt-1 border-top-thin ">
-    <p class="mb-3 py-2 bold h4 inline"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+    <p class="mb-3 py-2 bold h4 inline"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {% capture date %}{{ page.date }}{% endcapture %}
+      {% include date.html %}
+    </time></p>
     <span class="reading-time" title="Estimated read time">
       {% assign words = content | number_of_words %}
       {% if words < 360 %}
         | okuma süresi: 1 min
       {% else %}
-        | okuma süresi: {{ words | divided_by:180 }} dakika
+        | okuma süresi: {{ words | divided_by:275 }} dakika
       {% endif %}
     </span>
   </div>
