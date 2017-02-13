@@ -19,7 +19,16 @@ code {
   color: $red;
   font-weight: bold;
 }
+.share-text {
+  vertical-align: top;
+  font-weight: bold;
+  line-height: 24px;
+}
 
+.share-buttons {
+  margin-top: 15px;
+  line-height: 11px;
+}
 
 .prose {
 

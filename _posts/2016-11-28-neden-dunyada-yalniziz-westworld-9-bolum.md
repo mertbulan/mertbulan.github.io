@@ -2,7 +2,9 @@
 title: Neden dünyada yalnızız? – [Westworld 9. bölüm]
 ---
 
-Efsane olma yolunca ilerleyen Westworld, her bölümünde beni derin düşüncelere sevk ediyor. Spoiler içerir.>Söylesene Bernard. Dünyaya insanlığını duyuracak olsaydın sence ne ile karşılaşırdın? Konfeti serperler miydi? Biz insanlar bir neden yüzünden dünyada yalnızız. Üstünlüğümüze meydan okuyan her şeyi öldürüp katlettik. Neandertallerin başına geleni biliyor musun Bernard? Onları yedik. Yok ederek dünyamızı hükmümüz altına aldık.
+Efsane olma yolunca ilerleyen Westworld, her bölümünde beni derin düşüncelere sevk ediyor. Spoiler içerir.
+
+> Söylesene Bernard. Dünyaya insanlığını duyuracak olsaydın sence ne ile karşılaşırdın? Konfeti serperler miydi? Biz insanlar bir neden yüzünden dünyada yalnızız. Üstünlüğümüze meydan okuyan her şeyi öldürüp katlettik. Neandertallerin başına geleni biliyor musun Bernard? Onları yedik. Yok ederek dünyamızı hükmümüz altına aldık.
 
 Yukarıdaki alıntı Westworld'ün 9. bölümünde geçiyor ve aslında kısmen de insanlık tarihiyle ilgili gerçekleri yansıtıyor. Yuval Noah Harari'nin Sapiens kitabında Neandertaller'e ve bizlerin onlara neler yaptığımız biraz daha detaylı olarak işleniyor. Yanlış hatırlamıyorsam yediğimize dair bir bilgi kitapta yer almıyor ancak Sapiens'ler olarak Neandertaller'in soyunu kuruttuğumuz bilinen bir gerçek.
 
