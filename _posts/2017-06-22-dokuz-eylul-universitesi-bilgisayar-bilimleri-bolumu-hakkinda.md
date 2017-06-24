@@ -1,0 +1,44 @@
+---
+title: Dokuz Eylül Üniversitesi Bilgisayar Bilimleri Bölümü Hakkında
+---
+
+Önümüzdeki sene bölümdeki son senem olmasından dolayı tercih yapmayı düşünen genç arkadaşlara faydalı olabilmesi adına okuduğum bölüm hakkında detaylı bilgiler vermek istiyorum.
+
+Öncelikle, bölüm oldukça yeni bir bölüm, ben bölümün üçüncü mezunlarından olacağım. Bu bir yandan iyi bir yandan kötü. İyi yanı bölüm gelişmeye oldukça açık. Gerek hocalar gerekse de bölüm başkanı önerilerinizi can kulağıyla dinliyor. Kötü yanı ise bazı derslerin içeriğinin tam olarak oturmamış olması. Bu yüzden ders içeriği, dersi veren hoca bir sonraki sene değişebiliyor. Ancak genel olarak bu değişikler sonucunda iyileşme oluyor.
+
+# Dersler
+
+Şunu belirtmem gerekiyor ki, bölümün ders kataloğu gerçekten çok ama çok iyi hazırlanmış. Günümüzde ve gelecekte işinize yarayacak olan birçok konuyu bu derslerde öğrenebiliyorsunuz. Derslerin zengiliği sayesinde yönelebileceğiniz çok fazla alan da oluyor. Örneğin; Çok Değişkenli Veri Analizi, Veri Madenciliğine Giriş, Makine Öğrenimi, Metin ve Madenciliğine Giriş gibi derslerle veriyle alakalı alanlarda uzmanlaşabilirsiniz. Bu derslerden öğrendiklerinizle kendi yapay zeka uygulamanızı yapmayı (örneğin: bir bankanın otomatik olarak bir müşterinin kredi verilmeye uygun olup olmadığına karar veren bir program), büyük verilerden anlamlı veriler çıkarmayı (örneğin: bir kişinin internetten aldığı ürünlere bakarak ona alma ihtimali yüksek ürünler tavsiye eden bir program), metinleri otomatik olarak sınıflandırmayı (örnek: bir marka hakkında atılan tweetlerin olumlu mu olumsuz mu olduğuna karar veren bir program), Bulanık Mantık ve Bulanık Kümeler, Bulanık Karar Sistemleri gibi derslerle bulanık mantığa sahip sistemler (örneğin: çamaşırların kirine, türüne ve ağırlığına göre çamaşır makinesinin ne kadar su ve detarjan kullanacağına karar veren bir sistem) geliştirebilirisiniz. Çizge Kuramı, Matematiksel Programlama, Yöneylem Araştırması ve Kombinatoryal Optimizasyon gibi derslerle çeşitli optimizasyon problemlerini (örneğin: bir şehirde herkesin ulaşabileceği şekilde hastaneler ya da itfaiye istasyonları nerelere yapılmalı, bir fabrika elinde bulundurduğu hammadelerle kârını maksimum yapabilecek şekilde hangi ürünlerden ne kadar üretmeli, bir kargo firması en düşük maliyetle kargoları hangi güzergahtan giderek dağıtmalı) nasıl çözeceğinizi öğrenebilirsiniz.
+
+Bilgisayar Mimarisi dersiyle hep o söylenen bilgisayarlar aslında 0 ve 1'lerden oluşuyor sözünde ne demek isteniyor onu öğrenebilirsiniz. Algoritmalar ve Veri Yapıları, Görsel Programlama Dilleri, Nesneye Yönelik Programlama, Algoritmaların Tasarımı ve Analizi gibi derslerle kendinizi algoritma ve programlama alanında geliştirebilirsiniz. (Programlama derslerinde ağırlıklı olarak C ve C# anlatılıyor.)
+
+Bu dersler dışında ben matematiğe meraklıyım derseniz, Doğrusal Cebir ve Sayısal Geometri, Sayısal Çözümleme, Bilimsel Hesaplama gibi derslerle bu merakınızı kısmen de olsa giderebilirsiniz.
+
+Yukarıda saydığım dersler benim aldığım ve 3. sınıfa kadar olan dersler. Henüz 4. sınıftaki dersleri almadığımdan onları dahil etmek istemedim. Ancak 4. sınıfta da Yazılım Tasarımı, Yazılım Sınama ve Doğrulama, Yapay Zeka, Mobil Programlama, Veri Güvenliği gibi birçok önemli ders yer alıyor.
+
+# Hocalar
+
+Bölümün akademik kadrosuna bakan kişilerin ilk düşündüğü şey genelde Bilgisayar Bilimleri bölümünde nasıl oluyor da bilgisayar çıkışlı bölümlerden mezun olmamış hocalar yer alıyor sorusu oluyor. Öncelikle şunu belirtmekte yarar var, Bilgisayar Bilimleri bölümünün amacı yazılımcı yetiştirmek değil Bilgisayar Bilimcisi yetiştirmek. Dolayısıyla bu bölümde anlatılan derslerde yazılım sizin için sadece bir araç. Haliyle hocaların büyük bir kısmı da bilgisayarın temeli olan matematik bölümünden mezun olmuş kişilerden oluşuyor. Buna ek olarak bir de istatistik bölümünden mezun hocalar bulunuyor. Belki de bilgisayar mühendisliği bölümüyle ayrıldığı nokta da burası diyebilirim.
+
+Bilgisayar mühendisleri ağırlıklı olarak yazılımcı olarak çalışıyorken, bu bölümden mezun olacaklar için hedeflenen şey bilgisayar bilimcisi olması. Yani yeni ve farklı algoritmalar üretmesi, problemleri farklı bir şekilde çözmesi vs. Yazılım sadece ürettiği bu algoritmaları ve problemlerin çözümünü test etmekte devreye giriyor. Tabii ki birçok ders bilgisayar mühendisliği ile benzerlik gösteriyor ancak bilgisayar mühendisliğinde seçmeli olarak verilen dersler bu bölümde zorunlu olarak karşınıza çıkıyor. 
+
+Sonuç olarak yazılımcı olmak istiyorsanız, yeni ya da popüler programlama dillerini, kütüphanelerini vs. öğrenmek istiyorsanız hocalar belki bu konuda yetersiz olabilir. Belki bölüm sizin doğru bir bölüm bile olmayabilir. Ancak ben bilgisayarın temelini öğrenmek, problemleri çözebilen algoritmalar tasarlamak istiyorum diyorsanız hocaların matematik ve istatistik çıkışlı olmalarından dolayı hocaların tatmin edici olduğunu söyleyebilirim.
+
+Bununla birlikte hocalar gerçekten size her konuda yardımcı oluyorlar. Çoğunlukla sorduğunuz soruların cevaplarını alabiliyorsunuz. Anlamadığınız noktaları defalarca size sıkılmadan anlatabiliyorlar.
+
+# Sınavlar ve Ödevler
+
+Bölümdeki derslerin tamamında 1 vize ve 1 final sınavı oluyorsunuz. Bazı dersler quiz ve ödevler oluyor. Özellikle programlamayla ilgili derslerde bazen ders puanınızın %70'ini yaptığınız ödevler oluşturuyor. Bazı derslerde her hafta ödeviniz olabiliyor ya da dönem boyunca tamamlamanız gereken kampsamlı bir proje ödeviniz olabiliyor. Dolayısıyla ben her hafta ödev yapamam diyen biriyseniz bu bilgileri düşünerek bölümü tercih edin. 
+
+Bazı sınavlara kendi notlarınızla girebiliyorsunuz ya da hocalar size formül kağıdı verebiliyor. Çünkü bu hocalar sizin algoritma ya da formülü ezberlemekten ziyade konuyu anlamanızı umursuyorlar. Zaten çok fazla ödev olduğundan (bu dönem 11 ödev yapmışım) hocalar öğrenip öğrenemediğinizi yaptığınız ödevlerden anlayabiliyorlar.
+
+
+# Bölüm kimler için?
+
+Bölümün puanının düşük olması (MF-1 288,375) aslında bilgisayar bilimleri alanında kendini geliştirmek isteyenler için büyük bir avantaj. Çünkü bilgisayara ilgi duyan çoğu kişinin genelde lisede başarılı olması pek mümkün olmuyor. (bilgisayarda çok fazla zaman geçirmekten ders çalışmaya zaman kalmıyor) Tabii istisnalar olabilir ancak benim gözlemlediğim kadarıyla böyle. Bu kişiler genelde iki yıllık Bilgisayar Programcılığı bölümünü tercih ediyorlar hatta. İşte tam bu noktada 4 yıllık olan ve oldukça zengin bir ders katoloğu olan bu bölüm az önce bahsettiğim kişiler için büyük bir armağan gibi. Şahsen ben bu bölümle ilk karşılaştığımda çok şaşırmıştım. Dokuz Eylül Üniversitesi'ndeki Bilgisayar Mühendisliği bölümünün taban puanı 400 civarındayken, bana göre daha zengin bir ders kataloğu olan böyle bir bölümün puanın 300'den az olması oldukça şaşırtıcı. Tabii burada bölümün yeni bir bölüm olması ve dolayısıyla çoğu kişinin bölümden haberdar olmaması büyük bir etken. 
+
+Bölümün Türkçe eğitim vermesi de bence oldukça iyi. Çünkü hayatınızın geri kalanı boyunca yapacağınız mesleği anadilinizde öğrenmek büyük avantaj sağlayacaktır. Ancak tabii ki İngilizce bilmeniz çok ama çok önemli. Çünkü derslerde anlatılan konular hakkında daha fazla bilgi almak istediğinizde Türkçe kaynak bulmakta çok zorlanabilirsiniz. Bu yüzden eğer İngilizceniz iyi değilse isteğe bağlı olarak sunulan bir yıl İngilizce Hazırlık'ı okumanızı tavsiye ederim.
+
+Şunu da özellike belirtmek istiyorum, oyun oynamayı seven birçok kişi haliyle bilgisayarla ilgili bölümlere yöneliyor ve bölümdeki derslerin de oynadıkları oyun gibi çok eğlenceli olacağı yanılgısına düşüyor. Genelde de bölümü kazanıp derslere girince büyük bir hayal kırıklığı yaşıyor bu arkadaşlar. Öğrenirken eğleneceğiniz dersler tabii ki var ama bu oyun oynarken deneyimlediğiniz eğlenceyle aynı değil. Dolayısıyla derslerin içeriğine bakıp daha sonra bölümü tercih etmeniz sizin için daha iyi olur.
+
+Bölümden mezun olunca haliyle mühendis olmuyorsunuz. Bu yüzden bazı işverenler özellikle mühendis istediğinden belki bu bir dezavantaj olabilir sizin için. Ama yok ben mühendis diplomamın olup olmamasını önemsemiyorum derseniz sizin için bir sorun yok. Zaten bölüm ismi (Computer Science) ve içeriği itibariyle yurtdışındaki aynı bölümlerle oldukça benzerlik gösteriyor. Şunu da belirtmek isterim, Google gibi birçok yazılım firmasının mülakatlarda sorduğu soruların cevaplarının hepsini bu bölümdeki birçok derste bulabilirsiniz. Dolayısıyla mezun olduktan sonra Türkiye'de değil de yurtdışında çalışmayı düşünüyorsanız bu bölümde sizin için dezavantaj olacak bir şey bulunmuyor. (İngilizce'nizin iyi olduğunu varsayarsak)
