@@ -1,5 +1,5 @@
 ---
-title: Hamburg Notlarım: Bölüm 2
+title: Hamburg Notlarım - Bölüm 2
 ---
 
 Hamburg'ta ilk bir haftamı tamamlarken artık kabaca Hamburg'ta yaşayan insanlar hakkında fikir sahibi oldum diyebilirim sanırım. Çoğunlukla Alman olmak üzere, Polonyalı ve İtalyan iş arkadaşlarımla zaman geçirdim. Gerek ev arkadaşım olsun gerekse de ofiste birlikte çalıştığım Almanlar hepsi de gerçekten çok ama çok iyi insanlar. Bu zamana kadar hep Almanlar çok ciddidir, gülmez ve benzeri bir sürü saçma sapan yorumlar okumuştum ve şunu söyleyebilirim ki bu yorumların hiçbiri gerçeği yansıtmıyor. Tanıdığım insanların hepsi çok sıcak kanlı ve yardımsever.
