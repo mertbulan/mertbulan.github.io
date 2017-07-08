@@ -24,6 +24,6 @@ Bu arada restoran demişken, tüm dünyada olduğu gibi burada da McDonald's var
 
 Bir önceki yazıdan yeşilliklerden ve tuğla binalardan bahsedince herkes nerede fotoğraflar diye yakınmış. Henüz doğru düzgün gezip fotoğraf çekme şansım olmadı çünkü şu sıralar ikametgah kağıdı çıkarma, banka hesabı açtırma gibi evrak işleriyla uğraşıyorum. Yeri gelmişken paylaşayım ikametgah kağıdı çıkarmak için ilgili ofisten randevu almanız ve 12€ gibi bir ücret ödemeniz gerekiyor. Bu ve banka hesabı açtırma gibi işlemleri daha sonra farklı bir yazıda ele alacağım. Bir de G20 zirvesinden dolayı her yer kapatılınca haliyle gezme şansım da pek olmadı.
 
-Şimdilik çektiğim fotoğraflar içerisinde paylaşmaya değer bulduklarımla (4 adet) sizleri baş başa bırakıyorum: https://500px.com/mertbulan/galleries/hamburg
+Şimdilik çektiğim fotoğraflar içerisinde paylaşmaya değer bulduklarımla (4 adet) sizleri baş başa bırakıyorum: [https://500px.com/mertbulan/galleries/hamburg](https://500px.com/mertbulan/galleries/hamburg)
 
 İlk iki fotoğraf Hamburg'un belediye binası. İkincisi yanında küçük bir nehir olan uzun mu uzun bir yürüyüş/bisiklet yolu. Yolun tamamamının çevresi fotoğrafta olduğu gibi ağaçlarla kaplı. Son fotoğraf ise St. Peter's Kilisesi.
