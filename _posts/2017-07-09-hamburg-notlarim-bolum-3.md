@@ -27,6 +27,6 @@ Daha önce birçok sefer marketlerde fiyatların ne kadar uygun olduğunu söyle
 
 Farklı mutfaklardan örnek veriyorum çünkü açıkcası ben Türkiye'de bu zamana kadar farklı bir mutfaktan yemek yememiştim. Çünkü bu tarz yerler benim için hep lüks yerlerdi. Burada bu şekilde farklı mutfaklardan yemeklerin herkes tarafından erişilebilir olması gerçekten çok hoşuma gitti. 
 
-Yemekten bahsetmişken soslara da değinmem gerekiyor. Çünkü markette soslar için kocaman bir reyon var. Dönercide bile sos ister misin diye soruyorlar. Acılı ezme, sarımsaklı yoğur gibi bilindik sosların yanında neredeyse her renkten sos bulabiliyorsunuz marketlerde. 
+Yemekten bahsetmişken soslara da değinmem gerekiyor. Çünkü markette soslar için kocaman bir reyon var. Dönercide bile sos ister misin diye soruyorlar. Acılı ezme, sarımsaklı yoğurt gibi bilindik sosların yanında neredeyse her renkten sos bulabiliyorsunuz marketlerde. 
 
 Marketten söz açılmışken, genelde evin daha yakınında olan ve fiyatların aşırı uygun olduğu ALDI marketine gittiğimden bahsetmiştim. Haftasonu biraz daha uzakta REWE isimli markete gittim. Ürün çeşitliliği gerçekten inanılmaz. Suşi satan market de bu market. Japon aşçılar tarafından market içerisinde hazırlanıp, paketlenip satılıyor. Markette Türkiye'de satılan yabancı markaları da bulabiliyorsunuz ancak bu ürünlerin fiyatları bir tık daha pahalı oluyor. Ama tabii Türkiye ile karşılaştırınca yine her şey çok uygun.
