@@ -2,13 +2,13 @@
 title: Hamburg Notlarım - Bölüm 4
 ---
 
-Yabancı ülkeleri ziyaret edenler arasında artık bir klişe haline gelmiş olan şeyi benim de söylemem gerekiyor. Burada gerçekten yaya saygı var. Yaya ışıklarında çok fazla bekleme süresi olmadığı gibi, trafik lambası olmayan yollarda geçiş üstünlüğü her zaman yayada. Başta biraz alışmam zor oldu çünkü önüme bir araba çıkınca otomatik olarak beklemeye başlıyordum. Ama aynı şekilde araba da beni beklediğinden daha sonra benim geçme üstünlüğüm olduğunun farkına vardım. Yolda giderken ara sokaklarda direk yola atlayabiliyorsunuz çünkü gelen araba zaten yavaşlayıp size yol vermeye hazırlanıyor oluyor.
+Yabancı ülkeleri ziyaret edenler arasında artık bir klişe haline gelmiş olan şeyi benim de söylemem gerekiyor. Burada gerçekten yayaya saygı var. Yaya ışıklarında çok fazla bekleme süresi olmadığı gibi, trafik lambası olmayan yollarda geçiş üstünlüğü her zaman yayada. Başta biraz alışmam zor oldu çünkü önüme bir araba çıkınca otomatik olarak beklemeye başlıyordum. Ama aynı şekilde araba da beni beklediğinden daha sonra benim geçme üstünlüğüm olduğunun farkına vardım. Yolda giderken ara sokaklarda direkt yola atlayabiliyorsunuz çünkü gelen araba zaten yavaşlayıp size yol vermeye hazırlanıyor oluyor.
 
 # Market
 
 Buradaki marketler beni her geçen gün şaşırtmaya devam ediyor. Daha önce markette taze suşi hazırlandığından bahsetmiştim. Taze suşiye benzer olarak somonlu, yumurtalı, tavuklu taze sandviçler de bulabiliyorsunuz. (Fiyatları ortalama 2-3€) Bunun yanında açık büfe tarzı diyebileceğimiz bir alan da var. Bu alanda her türlü köftelerden salatalara, peynirlerden soslara kadar bir sürü çeşit yiyecek şey yer alıyor. Siz de orada bulunan plastik kaplardan bir tanesini alarak dilediğiniz yemekleri kaba koyuyorsunuz ve ödemeyi de kabın ağırlığına göre yapıyorsunuz. Benim oldukça hoşuma gitti. Çünkü bir öğünde birçok farklı besini bu şekilde tüketebiliyorsunuz. 100gr için 1,11€ ödüyorsunuz.
 
-Marketlerde yaygın olan bir diğer besin türü de paketli doğranmış meyveler. Burada çoğu kişi öğünlerini sadece meyve yiyerek geçiştiriyor. Geçen günlerde ben de 2-3€ gibi bir ücrete içerisinde yaban mersini, portakal, çilek, kavun, ananas içeren bir paketi denemiştim. Oldukça güzeldi. (ananas Almanca'da da ananas olarak geçiyormuş)
+Marketlerde yaygın olan bir diğer besin türü de paketli doğranmış meyveler. Burada çoğu kişi öğünlerini sadece meyve yiyerek geçiştiriyor. Geçen günlerde ben de 2-3€ gibi bir ücrete içerisinde yaban mersini, portakal, çilek, kavun, ananas içeren bir paketi denemiştim. Oldukça güzeldi. (ananas Almancada da ananas olarak geçiyormuş)
 
 Beni şaşırtan bir diğer şey ise Rewe isimli markette gördüğüm büyük portakal sıkma makinesiydi. Makinenin yanında portakallar ve boş şişeler var. Portakalları makineye atıp, suyunu sıkarak şişeyi dolduruyorsunuz. Ödemeyi artık kaç litre portakal sıktıysanız o şekilde yapıyorsunuz. 
 
