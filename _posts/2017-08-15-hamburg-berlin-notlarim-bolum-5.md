@@ -39,3 +39,4 @@ Berlin'de Hamburg'taki gibi bisiklet yolları da var ancak şehre iyi bir şekil
 
 Özetle söyleyecek olursam gezmek, alışveriş yapmak, eğlenmek istiyorsanız sanırım Berlin iyi bir alternatif. Diğer yandan sessiz sakin ve doğayla iç içe bir hayat yaşamak istiyorsanız da Hamburg daha güzel diyebilirim sanırım. Ben tercihimi Hamburg'tan yana yapıyorum. :) Berlin bana nedense daha çok İstanbul'u hatırlattı ve açıkcası İstanbul ile ilgili düşüncelerimin pek de iyi olduğunu söyleyemem.
 
+Berlin'de çektiğim fotoğrafların bazılarına şuradan ulaşabilirsiniz: [http://500px.com/mertbulan](http://500px.com/mertbulan)
