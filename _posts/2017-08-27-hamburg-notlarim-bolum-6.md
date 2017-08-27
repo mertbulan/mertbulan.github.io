@@ -1,0 +1,25 @@
+---
+title: Hamburg Notlarım - Bölüm 6
+---
+
+Bundan önceki yazılarda çoğunlukla Hamburg'daki yaşam hakkında notlarımı paylaşmıştım. Hamburg'ta yaklaşık 2 ayı devirirken artık Hamburg'da yaşayan insanlardan (Hamburger) söz edebilirim diye düşünüyorum.
+
+Bu haftasonumun neredeyse tamamını Alster Gölünün çevresinde dolaşarak geçirdim. Bu süre zarfında da insanları çokça gözlemleme şansım oldu. İlk olarak çocuklu ailelerden başlamak istiyorum. Çocuklu aileler genellikle çocuklarını olabildiğince özgür bırakıyor. Peşinde dolanıp durmuyor ve ilginç bir şekilde de çocukların ne kadar uslu olduğunu görebiliyorsunuz. Ebeveynler genel olarak çocuğu özgür bırakıp uzaktan takip ediyor. Çocuk düştüğünde hemen koşup kaldırmak yerine bir süre bekleyip çocuğun kendi başına durumu toparlamasına izin veriyorlar. Ağlayıp ya da bağıran çocuklarla pek karşılaşmıyorsunuz. Karşılaşırsanız da genellikle bu çocuklar göçmen ailelerin çocukları oluyor.
+
+İlginç bir şekilde hayatımda ilk defa bebek arabasıyla koşan aileler gördüm parkta. Baya baya bebek arabası önde anne ya da babadan birisi bebek arabasıyla koşarken diğer ebeveyn de bebek arabasının yanında koşuyor. Tabii buradan da yeni doğum yapmış annelerin neden bu kadar fit olduğunu da anlayabiliyorsunuz. 
+
+Bu arada yine hayatımda ilk defa burada hamile bir kadının bisiklet sürdüğünü gördüm. Bisiklet süren kadınlardan söz etmişken, kadınlar bisiklet sürerken bile ne giydiklerini önemsemiyorlar. Etekle ya da elbiseyle bile bisiklet süren kadınlara rastlayabiliyorsunuz. Çünkü kimse kimin ne giydiğini umursamıyor ya da gözleriyle taciz etmiyor.
+
+Bu arada haftasonları aileler alışveriş merkezlerine akın etmek yerine (zaten Pazar günleri her yer kapalı) genelde parklara akın ediyor. Parkta her yaştan onlarca insanı koşarken ya da bisiklet sürerken görebiliyorsunuz. 3-4 yaşındaki çocukları kasklarını takmış pedalsız minik bisikletlerini sürerken görünce yüzünüzde ister istemez bir tebessüm oluşuyor. Bu arada bisikletin yanında kaykay, scooter ve paten süren insanlara da sıkça rastlayabiliyorsunuz.
+
+Fark ettiğim bir başka şey ise çocukla sadece annenin ilgilenmesi gibi bir olay yok burada. Babalar da çocuklarıyla çok fazla zaman geçiriyor. Birlikte yelkenliye binmek ya da gölde yapabileceğiniz diğer kürekli su sporunu yapan baba-çocuk çiftlerine sıkça rastlayabiliyorsunuz. Elinde iPad ya da buna benzer elektronik bir cihaza sahip bir çocuk şuana kadar hiç görmedim, onu da belirtmek isterim.
+
+Çocuksuz çiftlere gelirsek, onlar da zamanlarını birlikte çimlere uzanıp güneşin keyfini çıkararak, kitap okuyarak ya da sohbet ederek geçiriyorlar. Büyük bir çoğunluğu da birlikte koşuyor ya da bisiklet sürüyor. Benim en çok hoşuma giden şey ise birbirlerine olan sevgilerini göstermekten hiç çekinmiyorlar. Birbirlerine sarılıp rahatça öpüşebiliyorlar. En çok şaşırdığım çiftler ise el ele tutuşup gezen yaşlı çiftler. Birbirlerine olan sevgiyi hiç kaybetmediklerini çok net bir şekilde görebiliyorsunuz yüzlerinde.
+
+Bu arada yüzlerden bahsetmişken, parkta gezip de suratı asık bir insan bile görmek mümkün değil. Şehirde de herkes mutlu. Birisiyle göz göze gelince genelde gülümseniyor. Şuana kadar bir kere bir çiftin otobüste tartıştığına denk geldim. Belki inanmayacaksınız ama o da bir Türk çift idi. Yabancı ülkeye gidip kendi milletini kötülüyor diye düşünmenizi istemem ama genelde burada yaşayan Türklerin Anadolu'da yaşayan Türklerden pek de farkı olduğunu söyleyemem. Ülkeye ve insanlara uyum sağlamaya çalışmak yerine nasıl biliyorlarsa öyle yaşamaya devam etmişler.
+
+Köpek sahibi olmak da oldukça yaygın. Parkta sadece bir saat oturarak birbirinden farklı şirin mi şirin köpeklere denk gelebilirsiniz. Çoğu eğitimli ve tasmasız dolaşan köpekler. Bazıları sahipleriyle oyun oynuyor bazıları da sahipleriyle birlikte koşuyor.
+
+Normalde kalabalık ve çocuklu ailelerin olduğu ortamlarda bulunmayı sevmem ancak bu parka ne zaman gitsem mutlu oluyorum. Bir banka oturup rahatça kitabımı okuyup, manzaranın ve doğanın tadını çıkarabiliyorum. 
+
+Almanların kurallara bağlı olduğu söylenir genelde. Bunu bizzat gözlerinizle görebiliyorsunuz. Kalabalık yerlerde bir şey satın alırken her zaman sıraya denk geliyorsunuz. Bununla birlikte her seferinde sıradaki kişiler sizin önünze geçmedim değil mi şeklinde soruyor. İnsanlar genelde yolda yürürken birbirlerinin yollarını kesmek yerine yol veriyorlar. Herkes birbirine saygı gösteriyor. Bir de araç yolu ne kadar boş olsa da yayalar yeşil ışığın yanmasını bekliyor. Yaya ışıklarının güzel bir yanı ise, yeşil ışığın son saniyesinde bile karşıdan karşıya geçmeye kalksanız da arabaların kırmızı ışığı, yayaya kırmızı ışık yandıktan hemen sonra yeşile dönmüyor. Onun yerine bir süre daha bekliyor. Bu sayede siz de karşıdan karşıya geçebiliyorsunuz. Yayaya korna çalan bir araç görmüyorsunuz. Gerçekten güzel ayarlamışlar. 
