@@ -1,5 +1,5 @@
 ---
-title: Almanya'da İş Hayatına Başlangıç: Gerekli Belgeler
+title: Almanya'da İş Hayatına Başlangıç - Gerekli Belgeler
 ---
 
 Evrak işleri sanırım şu hayatta en sevmediğim şeylerden biri. Özellikle elinizde tam olarak ne yapmanız gerektiğine dair bir rehber olmayınca sağa sola sorup durmaktan dolayı inanılmaz derecede keyfinizi kaçıran bir durum olmaya başlıyor.
