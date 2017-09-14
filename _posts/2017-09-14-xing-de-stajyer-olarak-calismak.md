@@ -14,6 +14,8 @@ Başta Hacker News olmak üzere (Who is hiring? başlıkları) internette buldu�
 
 Son olarak 5 Nisan tarihinde mail aracılığıyla bir Code Challenge gönderildi. Birkaç saat içerisinde tamamlayıp kendileriyle paylaştım. 10 Nisan tarihinde de staja kabul edildiğime dair bir mail aldım. Böylelikle 13 Şubat tarihinde başlayan süreç 10 Nisan tarihinde sonuçlanmış oldu ve benim XING maceram başladı.
 
+![alster](/uploads/IMG_1344.jpg)
+
 # İlk Gün
 
 Stajımın ilk günü herhalde bu zamana kadar en çok heyecan duyduğum günlerden bir tanesiydi. XING'in binasına girip, ilgili kata asansörle çıkıp daha sonra da resepsiyonda danışmanımın (supervisor) beni alması için beklemeye başladım. Resepsiyonda ilk olarak ufak bir paket verdiler. Pakette birkaç çikolata, her gün su içmek için kullandığım cam şişe, kahve için fincan, kalem ve benzeri kırtasiye ürünleri vardı. Birkaç dakikalık beklemenin ardında danışmanım Tomasso geldi ve ilk iş olarak birlikte staj süresi boyunca kullanacağım bilgisayarı almak üzere IT departmanının yolunu tuttuk. Burada ilk şokumu yaşadım. Çünkü benim için hazırlanan bilgisayar 2016 model Touch Bar'a sahip 15 inç MacBook Pro idi. Ben şoktayken, Tom bana kulaklık, mouse ya da klavye ister misin diye soruyordu. Hangileri gerek olur bilmediğimden hepsine evet dedim. Kutusu açılmamış Logitech marka mouse ve kulaklığımı, Apple marka klavyemi de alıp departmanımın yolunu tuttuk. (klavyeyi kullanmadığımdan geri verdim) Burada bir diğer danışmanım olan Laura ve sevimli köpeği Pepsi ile tanıştım. Hem Tom hem de Laura benim şirket içinde ve dışında her türlü konuda bana yardımcı olmak için gönüllü olmuş kişiler. Staj yaparken birlikte kod yazacağım, kendisnden yeni şeyler öğreneceğim ve takıldığım konularda bana yardımcı olacak bir diğer danışmanım, kendisi de benim gibi Back-end Developer olan Andreas ile de tanıştım. (Herhalde şirkette 3 danışmanı olan tek stajyer benimdir)
@@ -50,6 +52,8 @@ Son olarak bu toplantılara bir de ek olarak Growth kümesindeki her ekip geçen
 
 Görünürde çok fazla toplantı varmış gibi geliyor olabilir ama bunlar çoğuna katılım zorunluluğu yok. Ben her şeyi merak ettiğimden elimden geldiği kadarıyla hepsine katılmaya çalışıyorum. Bir de benim her hafta Tom ve Laura ile yaptığım ufak 1'e 1 diye adlandırılan bir toplantım var. (Ekipteki diğer kişiler de örneğin mühendis ise mühendislerden sorumlu kişiyle görüşüyor.) Bu toplantıda yaşadığım herhangi bir sıkıntı var mı, her şey yolunda mı ya da aklıma takılan bir şey varsa bunun üzerine birlikte sohbet ediyoruz. Açıkcası benimle bu kadar yakından ilgileniyor olmaları çok hoşuma gidiyor.
 
+![pepsi](/uploads/IMG_1196.jpg)
+
 # Şirket
 
 Anlatmaya nereden başlasam bilemiyorum. Sanırım Pepsi ile başlayacağım. Eğer köpeğiniz varsa şirkete köpeğinizi de getirebiliyorsunuz. Bizim ekipteki Laura'nın köpeği Pepsi her gün Laura ile işe geliyor. Ekipte bir köpeğin olması gerçekten moralinizi olumlu anlamda etkiliyor. Bir anda yanınızda belirip, kendini sevdirmesi bazı zamanlarda sizle oyun oynaması sürekli masa başında çalışan birisi için gerçekten çok iyi hissettiriyor. Şirketin böyle bir politikasının olması oldukça hoşuma gitti. 
@@ -81,6 +85,8 @@ Son olarak şirket hakkında değinmek istediğim bir konu var. Belki bu konu ba
 
 Belki de yazının başında belirtmem gerekiyordu ama burada da belirtebilirim diye düşünüyorum. Stajım aslında XING'in bu sene başlattığı Summer School programı kapsamında. Benim gibi 10 Summer School stajyeri bulunuyor. Tabii genelde farklı departmanlara dağılmış durumdayız ve farklı alanlarda çalışıyoruz. Bu program kapsamında zaman zaman bir araya gelip birlikte zaman geçiriyoruz. Bunun yanında birlikte bazı eğitimler de alıyoruz. Bunlardan ilki ben staja başladıktan iki hafta sonra gerçekleşen eğitimdi.
 
+![yelkenli](/uploads/yelkenli.jpg)
+
 Etkinlik günü ofise gitmek yerine eğitim veren kurumun ofisine gittik. Staj dönemi daha yeni başladığından ve herkes birbirini tanımadığından ilk olarak birbirimizi tanımak için bir oyun oynadık. Daha sonra da Summer School programından beklentilerimiz üzerine konuştuk, herkes kendisini neyin motive ettiğinden bahsetti ve son olarak karşılaştığımız olumlu ya da olumsuz durumlarda nasıl geri bildirim vermemiz gerektiğini öğrendik. Başlangıçta sıkıcı geleceğini düşündüğüm etkinlik oldukça enerjik eğitmenlerimiz sayesinde gayet eğlenceli geçti. 
 
 Eğitimin ardından hep birlikte yemek yemek için Alster Gölü'nün yanındaki bir restorana gittik ve yemek yedik. Yemeğin ardından bizim için kiralanan 2 ufak yelkenliye doluştuk ve Alster Gölü üzerinde yaklaşık 2 saat boyunca turladık. Daha önce hiç yelkenliye binmemiş ve kürek çekmemiş biri olarak geçirdiğim zamandan inanılmaz derece keyif aldığımı söyleyebilirim. Alster Gölü'nün o sakinliği üzerinde zaman geçirmek harika bir deneyimdi. Bu yüzden buradan bu etkinliği organize eden Gabi'ye de teşekkürü bir borç biliyorum.
@@ -95,6 +101,8 @@ Bu eğitimin benim için birkaç konuda faydalı oldu. İlki nasıl etkili sunum
 # Off-site etkinliği
 
 Ekip büyük olunca ekip arası iletişimi sıkı tutabilmek adına bazı etkinlikler düzenleniyormuş. Üçüncü haftamdan sonra birlikte çalıştığım Growth ekibi şehir merkezinin dışında bir gece konaklamalı bir etkinlik  düzenleyeceğini öğrendim. Böyle bir etkinliğe beni de davet etmeleri çok hoşuma gitti. Pazartesi günü iş çıkışı ekipçe otobüse binip konaklayacağımız yere gittik. Konaklayacağımız ev/otel 200 yaşında kocaman bir evdi. İlk gece birlikte barbekü yapıp biralarımızı içtikten sonra Game of Thrones'un yeni bölümünü izlemek isteyenlerle birlikte yeni bölümü izledik. Ardından gece yarısına kadar sohbet ettik ve sonra herkes odasına çıktı.
+
+![offsite](/uploads/IMG_1198.jpg)
 
 Ertesi sabah birlikte kahvaltı ettikten sonra yağmur altında orman yürüyüşüne çıktık. Yürüyüş diyorum ama aslında bir tür ekip oyunu. Tüm ekip 3 farklı ekibe bölündü ve daha sonra her ekibe diğer ekibin haritası, cep telefonu ve pusula verildi. Ardından ekipler yola çıktı ve her ekip diğer ekibi arayarak harita ve pusula yardımıyla yol tarif etti. 
 
