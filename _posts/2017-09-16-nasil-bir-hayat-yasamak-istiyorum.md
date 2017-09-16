@@ -30,6 +30,6 @@ Bilgisayar dışında farklı uğraşlar da edinmek istiyorum. Bunlardan ilki ye
 
 Tabii ki uzun zamandır yaptığım ve bana inanılmaz katkısı olan kitap okuma alışkanlığımdan da asla vazgeçmek istemiyorum. İnternet müthiş bir bilgi hazinesi ancak gneellikle maksimum 15 dakikalık zamanınızı alacak bilgilere ulaşabiliyorsunuz. (Ulaşsanız da bunları bilgisayardan okumak maalesef pek de tercih edilebilir bir yöntem değil.) Kitaplarda ise saatlerinizi harcayabiliyorsunuz. Tabii sizi başka bir dünyaya ışınlayan romanları da unutmamak lazım. Film izlemekten bence bin kat daha güzel bir şey.
 
-Bir de son olarak, uzun dönemde bana hiçbir katkısı olmayacak şeylerden uzak durmak istiyorum. Özellikle gereksiz tartışmalar ve anlamsız YouTube videolarından (televizyon izlemeyi yıllar önce bıraktım) olabildiğince uzak durmak istiyorum.
+Bir de son olarak, uzun dönemde bana hiçbir katkısı olmayacak şeylerden uzak durmak istiyorum. Özellikle gereksiz tartışmalar ve anlamsız YouTube videolarından (televizyon izlemeyi yıllar önce bıraktım) olabildiğince uzak durmak istiyorum. En önemli şeyi eklemeyi unutmuşum, en çok da mümkün olduğu kadar, hayatta ne yapmak istediğini bilmeyen insanlardan uzak durmak istiyorum.
 
 Şuana kadar yaşadığım hayat daha çok, çalışma ve sürekli öğrenme üzerine kuruluydu. Bunun faydasını inanılmaz derecede gördüğüme inanıyorum ancak artık biraz da bunların yanında farklı şeylere de zaman harcamak istiyorum umarım bu konuda başarılı olabilirim.
