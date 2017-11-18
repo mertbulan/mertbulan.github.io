@@ -32,7 +32,7 @@ defaults:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 10
+paginate: 20
 paginate_path: '/page/:num/'
 gems:
   - jekyll-feed
