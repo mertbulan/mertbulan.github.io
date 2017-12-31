@@ -23,7 +23,7 @@ Herhalde benim için yılın kitabı bu oldu diyebilirim. Odaklanma konusunda so
 
 ### Walden Gölü
 
-Neredeyse hiçbir doğa olayına şahit olamadığımız apartman dairelerimizdeki, yıllar önce başkaları tarafından tasarlanmış ve olabildiğince karmaşıklaştırılmış hayatı yaşarken, bu kitap adeta farklı, sade ve huzurlu bir hayatın kapılarını açıyor size. Birçok büyük düşünüre ilham kaynağı olmuş bu kitap Henry David Thoreau'nun 2 yıl boyunca Walden Gölü'nün yanına kendi yaptığı evdeki yaşamını anlatıyor. Bir kitabı okurken doğayla hiç bu kadar iç içe olmamıştı. Şehir hayatının getirdiği artıların yanında götürdüğü şeylerin çoğunu bu kitapda görebiliyorsunuz.
+Neredeyse hiçbir doğa olayına şahit olamadığımız apartman dairelerimizdeki, yıllar önce başkaları tarafından tasarlanmış ve olabildiğince karmaşıklaştırılmış hayatı yaşarken, bu kitap adeta farklı, sade ve huzurlu bir hayatın kapılarını açıyor size. Birçok büyük düşünüre ilham kaynağı olmuş bu kitap Henry David Thoreau'nun 2 yıl boyunca Walden Gölü'nün yanına kendi yaptığı evdeki yaşamını anlatıyor. Bir kitabı okurken doğayla hiç bu kadar iç içe olmamıştı. Şehir hayatının getirdiği artıların yanında götürdüğü şeylerin çoğunu bu kitapta görebiliyorsunuz.
 
 
 Bu yıl okuduğum kitapların listesine [Goodreads profilim](https://www.goodreads.com/user_challenges/6844713)den ulaşabilirsiniz.
