@@ -24,7 +24,9 @@ Türkiye'den kiminle konuşsam ırkçılıktan falan bahsediyor. Hamburg zaten k
 
 Almanya'nın belki de diğer ülkelerden güzel yanı istediğiniz zaman Türk yemeği bulabiliyor olmanız. Tabii çoğunlukla birebir aynısı olmuyor Türkiye'dekiyle ama idare ediyorsunuz. Hazır buradaki Türklerden bahsetmişken şuna da değineyim, maalesef Türkler olarak imajımız buradaki insanlardan dolayı çok da iyi değil. Ama eminim son birkaç yıl içerisinde benim gibi mavi kartla yerleşmeye başlamış eğitimli kişilerin bu imajı düzeltecektir.
 
-Geçtiğimiz 3 ayda tabii daha başka birçok şey de oldu ama hepsini burada uzun uzun anlatmayacağım. Çünkü kimseye bir faydası olacağını sanmıyorum. Bir daha blog yazar mıyım ondan da emin değilim açıkçası. Çünkü zamanımı kendime daha faydalı olacak şeylerle harcamak istiyorum. Mesela Almanca öğrenmek gibi. Kısacası iyiyim, halim vaktim yerinde, mutluyum. Bu arada yıl sonuna doğru ilk iOS uygulamamı yayınlamayı düşünüyorum. Onun da buradan haberini vermiş olayım.
+Geçtiğimiz 3 ayda tabii daha başka birçok şey de oldu ama hepsini burada uzun uzun anlatmayacağım. Çünkü kimseye bir faydası olacağını sanmıyorum. Bir daha blog yazarmıyım ondan da emin değilim açıkçası. Çünkü zamanımı kendime daha faydalı olacak şeylerle harcamak istiyorum. Mesela Almanca öğrenmek gibi. Kısacası iyiyim, halim vaktim yerinde, mutluyum. Bu arada yıl sonuna doğru ilk iOS uygulamamı yayınlamayı düşünüyorum. Onun da buradan haberini vermiş olayım.
 
 Şunu da not düşeyim, kesinlikle ama kesinlikle İngilizce öğrenin. Türkiye sınırlarının dışında bambaşka bir hayat var.
+
+Bana ulaşmak isteyenler için mail adresimi de ekleyeyim: mertbulan[at]gmail.com
 
