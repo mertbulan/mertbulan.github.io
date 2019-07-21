@@ -3,7 +3,7 @@ title: Hakkımda
 layout: page
 ---
 
-İzmir’de Dokuz Eylül Üniversitesi’nde Bilgisayar Bilimleri (Computer Science) okuyorum. Bir yandan kendimi bazı programlama dilleri (Ruby ve Crystal) ve HTML/CSS’de geliştirirken bir yandan da ilgimi çeken konularda (pazarlama, kullanıcı deneyimi, ürün geliştirme) bol bol kitap okuyorum.
+İzmir’de Dokuz Eylül Üniversitesi’nde Bilgisayar Bilimleri (Computer Science) bölümünden ikincilikle ve yüksek onur derecesiyle mezun oldum. Şu anda Hamburg'da yaşıyor ve XING şirketinde Yazılım Mühendisi olarak çalışıyorum.
 
 Okuduğum kitapların listesine [Goodreads](https://www.goodreads.com/mertbulan) profilimden, geliştirdiğim açık kaynaklı uygulamalara [GitHub](https://github.com/mertbulan/) profilimden ulaşabilirsiniz. Dilerseniz beni [Twitter](https://twitter.com/mertbulan)‘dan takip edebilirsiniz.
 
