@@ -20,8 +20,11 @@ var quotes = ["Mezardaki en zengin adam olmak değil, yatağa yattığımda hari
               "Hiç kimseye yararlı olmamak tam olarak değersiz olmak demektir. - Descartes",
               "Neden varız bilemiyorum ama eminim ki keyfimize bakmak için değil. - Ludwig Wittgenstein"];
 
+
+var quotesInEnglish = ["Very little is needed to make a happy life; it is all within yourself, in your way of thinking - Marcus Aurelius"]
+
 function newQuote() {
-  var randomNumber = Math.floor(Math.random() * (quotes.length));
-  document.getElementById('quote').innerHTML = quotes[randomNumber];
+  var randomNumber = Math.floor(Math.random() * (quotesInEnglish.length));
+  document.getElementById('quote').innerHTML = quotesInEnglish[randomNumber];
 }
 newQuote();

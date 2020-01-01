@@ -11,9 +11,9 @@ layout: default
     <span class="reading-time" title="Estimated read time">
       {% assign words = content | number_of_words %}
       {% if words < 360 %}
-        | okuma süresi: 1 dk
+        | reading time: 1 min
       {% else %}
-        | okuma süresi: {{ words | divided_by:275 }} dk
+        | reading time: {{ words | divided_by:275 }} mins
       {% endif %}
     </span>
   </div>
@@ -25,7 +25,7 @@ layout: default
 </article>
 
 <div class="share-buttons container px-2 mx-auto mb4">
-  <span class="share-text">Paylaş:</span>
+  <span class="share-text">Share:</span>
   <a class="twitter-share-button" href="http://twitter.com/intent/tweet?text={{page.title}}&url={{site.url}}{{page.url}}&via=mertbulan" rel="nofollow" target="_blank"
   data-size="large">Tweet</a>
 </div>

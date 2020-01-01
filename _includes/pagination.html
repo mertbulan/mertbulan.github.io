@@ -2,10 +2,10 @@
   <div class="container mx-auto px-2"> 
     <div class="col-10 sm-width-full left py-2 mb-0 pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous left">&#8592; Yeni yazılar</a>
+        <a href="{{ paginator.previous_page_path }}" class="previous left">&#8592; New posts</a>
       {% endif %}
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next right">Eski yazılar &#8594;</a>
+        <a href="{{ paginator.next_page_path }}" class="next right">Old posts &#8594;</a>
       {% endif %}
     </div>
   </div>

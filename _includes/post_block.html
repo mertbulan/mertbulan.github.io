@@ -8,9 +8,9 @@
   <span class="reading-time" title="Estimated read time">
     {% assign words = post.content | number_of_words %}
     {% if words < 360 %}
-      | okuma süresi: 1 dk
+      | reading time: 1 mins
     {% else %}
-      | okuma süresi: {{ words | divided_by:275 }} dk
+      | reading time: {{ words | divided_by:275 }} mins
     {% endif %}
   </span>
 
