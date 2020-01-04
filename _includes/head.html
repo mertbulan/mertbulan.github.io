@@ -19,7 +19,8 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.base_url }}{{ "/feed.xml" | relative_url }}">
   <meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="https://mertbulan.com/uploads/ben.jpg">
+  <meta name="twitter:image" content="{{ site.url }}/uploads/{{ page.image ?? page.image : ben.jpg }}">
+  <meta property="og:image" content="{{ site.url }}/uploads/{% if page.image %}{{page.image}}{% else %}{{ 'ben.jph' }}{% endif %}">
 
   <script type="text/javascript">
     var host = "mertbulan.com";
