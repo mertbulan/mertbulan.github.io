@@ -16,8 +16,3 @@ I am trying to live environment friendly. I use renewable energy at home, I comm
 You can follow me on Twitter: [https://twitter.com/mertbulan](https://twitter.com/mertbulan)
 
 You can follow me on Goodreads: [https://www.goodreads.com/mertbulan](https://www.goodreads.com/mertbulan)
-
-
-### Why are there blog posts in Turkish?
-
-I was writing my blog in Turkish. After moving to Germany, I started to spend my time with people from different countries. I thought that would be better if I write my new posts in English so my friends can also read and I can reach more people.
