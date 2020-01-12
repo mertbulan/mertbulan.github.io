@@ -61,7 +61,7 @@ Once you find a flat which fits your requirements, you should send a message as 
 
 In Germany, you have to separate your trash. The most common trash cans that you will see for paper, plastic and metal, residual waste. You will see these trash cans near your home and probably they will have a lock on them since you are paying for the collection only you and your neighbors can throw the trash into those cans. There are also bigger trash cans in your neighborhood that everybody can use for white, green and brown glass. There are also other types of trash cans which are not very common as the ones that I mentioned: electronic, textile and bio. If you have things which are big for these trash cans, you need to call someone and they will pick them up and you might need to pay a fee for that.
 
-# Silent hours and days (Ruhezeit)
+## Silent hours and days (Ruhezeit)
 
 In Germany, you can make noise between 22:00 and 07:00 and all day on Sundays and public holidays. Under the tenancy law, if you make noise during the silent hours, your neighbors can complain to your landlord and your landlord can terminate your rental contract.
 
