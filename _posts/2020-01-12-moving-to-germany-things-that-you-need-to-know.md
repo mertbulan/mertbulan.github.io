@@ -3,6 +3,8 @@ title: 'Moving to Germany: Things that you need to know'
 image: alster.jpg
 ---
 
+![alster](/uploads/alster.jpg)
+
 I moved to Hamburg, Germany in 2018. During that time, I had to do a lot of research or ask a lot of questions to my colleagues. Nowadays, I am getting a lot of questions from my friends who want to move to Germany. I already answered their questions but at the same time, I thought it would be really useful to share those answers here so a lot of people can get some benefits from them.
 
 First of all, I have to mention that these are my experiences and they might be different for your case. When you have a specific question for your case, please ask it to the correct person who can answer it properly. I am living in Hamburg and I moved here for work so if you are a student things might be different for you. I don't know anything about being a student in Germany. Let's get started!
