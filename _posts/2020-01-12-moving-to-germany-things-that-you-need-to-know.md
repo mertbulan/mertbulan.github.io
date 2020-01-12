@@ -1,5 +1,5 @@
 ---
-title: 'Moving to Germany Things that you need to know'
+title: 'Moving to Germany: Things that you need to know'
 image: alster.jpg
 ---
 
