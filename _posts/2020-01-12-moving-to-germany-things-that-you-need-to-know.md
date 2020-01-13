@@ -63,7 +63,7 @@ In Germany, you have to separate your trash. The most common trash cans that you
 
 ## Silent hours and days (Ruhezeit)
 
-In Germany, you can make noise between 22:00 and 07:00 and all day on Sundays and public holidays. Under the tenancy law, if you make noise during the silent hours, your neighbors can complain to your landlord and your landlord can terminate your rental contract.
+In Germany, you can not make noise between 22:00 and 07:00 and all day on Sundays and public holidays. Under the tenancy law, if you make noise during the silent hours, your neighbors can complain to your landlord and your landlord can terminate your rental contract.
 
 ## Supermarkets
 
