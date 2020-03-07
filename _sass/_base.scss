@@ -35,6 +35,17 @@ body {
     background-color: #fff;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #181818;
+    color: #fff;
+  }
+
+  p {
+    color: #fff;
+  }
+}
+
 p {
   margin-top: 0;
   margin-bottom: 0.5em;
