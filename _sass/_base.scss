@@ -27,13 +27,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
-    font-family: $body-font-family;
-    font-size: $body-font-size;
-    line-height: 1.5;
-    color: $color-body-text;
-    background-color: #fff;
-}
+
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -48,6 +42,14 @@ body {
   .prose p {
     color: #fff;
   }
+}
+
+body {
+    font-family: $body-font-family;
+    font-size: $body-font-size;
+    line-height: 1.5;
+    color: $color-body-text;
+    background-color: #fff;
 }
 
 p {
