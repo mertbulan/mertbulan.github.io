@@ -34,6 +34,11 @@ body {
     line-height: 1.5;
     color: $color-body-text;
     background-color: #fff;
+
+    @media (prefers-color-scheme: dark) {
+      color: #fff;
+      background-color: #181818;
+    }
 }
 
 p {
@@ -65,19 +70,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #181818;
-    color: #fff;
-  }
-
-  p {
-    color: #fff;
-  }
-
-  .prose p {
-    color: #fff;
-  }
 }
