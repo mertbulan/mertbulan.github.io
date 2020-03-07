@@ -42,6 +42,10 @@ code {
       width: (10 / 12 * 100%); // matches col-10
     }
 
+    @media (prefers-color-scheme: dark) {
+      color: #fff;
+    }
+
   }
 
   ul, ol {

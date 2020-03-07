@@ -63,6 +63,8 @@ Once you have your signed contract, do not forget to buy a household insurance. 
 
 In Germany, you have to separate your trash. The most common trash cans that you will see for paper, plastic and metal, residual waste. You will see these trash cans near your home and probably they will have a lock on them since you are paying for the collection only you and your neighbors can throw the trash into those cans. There are also bigger trash cans in your neighborhood that everybody can use for white, green and brown glass. There are also other types of trash cans which are not very common as the ones that I mentioned: electronic, textile and bio. If you have things which are big for these trash cans, you need to call someone and they will pick them up and you might need to pay a fee for that.
 
+There is one important thing about bio trash can, while collection your trash, you should use paper bags because you can't throw a plastic bag into bio trash can. You can find those bags under Bio-Müll Buetel or Biotüten. Also in some cities, you can get 30 free paper bags with a coupon code. For Hamburg, you can get your coupon code [here.](https://www.stadtreinigung.hamburg/privatkunden/wertstoffe/biotueten/index.html)
+
 ## Silent hours and days (Ruhezeit)
 
 In Germany, you can not make noise between 22:00 and 07:00 and all day on Sundays and public holidays. Under the tenancy law, if you make noise during the silent hours, your neighbors can complain to your landlord and your landlord can terminate your rental contract.
@@ -84,4 +86,4 @@ If you enter a store and if someone ask you "Brauchen Sie Hilfe?", it means "Do 
 Every city has a different public transportation system. In Hamburg, it is completely trust based. You can walk into the subway station and take the train without passing any machine and also same for the long buses. You can use the middle and back doors of the long buses but for the small buses, you need to take the front door and show your ticket to the driver. Other than that there is no machine to validate your ticket. As far as I remember, in Berlin, after buying your ticket from a ticket machine, you need to validate it in a punch machine in the station. Sometimes, you will see people who ask for your ticket. If you don't have a ticket, you will get a fine. They are doing this controls randomly so please do not even think to abuse the system buy your ticket before entering the station. You can buy a single ticket based on your travel distance, also you can buy a daily, weekly or monthly ticket.
 
 
-*Last updated: 08 February 2020*
+*Last updated: 07 March 2020*
