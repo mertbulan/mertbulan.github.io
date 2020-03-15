@@ -85,5 +85,11 @@ If you enter a store and if someone ask you "Brauchen Sie Hilfe?", it means "Do 
 
 Every city has a different public transportation system. In Hamburg, it is completely trust based. You can walk into the subway station and take the train without passing any machine and also same for the long buses. You can use the middle and back doors of the long buses but for the small buses, you need to take the front door and show your ticket to the driver. Other than that there is no machine to validate your ticket. As far as I remember, in Berlin, after buying your ticket from a ticket machine, you need to validate it in a punch machine in the station. Sometimes, you will see people who ask for your ticket. If you don't have a ticket, you will get a fine. They are doing this controls randomly so please do not even think to abuse the system buy your ticket before entering the station. You can buy a single ticket based on your travel distance, also you can buy a daily, weekly or monthly ticket.
 
+## Broadcasting Fee (Rundfunkbeitrag)
 
-*Last updated: 07 March 2020*
+After your address registration, in a few weeks, you are going to receive a letter about the broadcasting fee. Every household in Germany has to pay this fee. It costs 17,50€ per month and you pay it every 3 months. In Germany, public service broadcasters are financed by this fee. In this way, media can stay independent from commercial and political interests. You can simply fill in the form that you got it in the letter with your bank account information and send it back. They will collect the fee every 3 months.
+
+All the programs produced by public service broadcasters are in German. There is one exception, Deutsche Welle. It is Germany's international broadcaster, and it has YouTube channels and websites in many different languages.
+
+
+*Last updated: 15 March 2020*
