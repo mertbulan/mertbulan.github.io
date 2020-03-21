@@ -1,5 +1,5 @@
 ---
-title: 'Should we #EnjoyCapitalims?'
+title: 'Should we #EnjoyCapitalism?'
 image: enjoy-capitalism.jpg
 ---
 
