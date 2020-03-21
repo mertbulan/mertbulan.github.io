@@ -3,6 +3,8 @@ title: 'Should we #EnjoyCapitalims?'
 image: enjoy-capitalism.jpg
 ---
 
+![enjoy-capitalism](/uploads/enjoy-capitalism.jpg)
+
 If you are a person like me who moved from a third world country (Turkey) to a first world country (Germany), probably your priorities and problems are different now. You don't think about freedom of speech and press, democracy, having the fear of being sick and losing your job, drinkable tap water, purchasing power, high inflation rate, traffic jam, living inside of ugly buildings, etc. Now, you probably think about your hobbies, your next vacation, the next thing you will buy, how you can improve your skills and become better at your job and how to contribute to the community surrounding yourself or humanity. That's what happened to me.
 
 I've been thinking about the things that I use and buy. For example, red meat. Red meat was a kind of luxury product for me when I was living in Turkey. Even today, when people compare the purchasing power between Germany and Turkey, the first thing they will do is comparing the price of one kilogram of minced meat. In Germany, red meat is cheap comparing to Turkey and once you have something cheap as much, you are wondering how it can be that cheap.
