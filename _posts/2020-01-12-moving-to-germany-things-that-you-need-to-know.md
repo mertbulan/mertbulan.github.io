@@ -91,5 +91,9 @@ After your address registration, in a few weeks, you are going to receive a lett
 
 All the programs produced by public service broadcasters are in German. There is one exception, Deutsche Welle. It is Germany's international broadcaster, and it has YouTube channels and websites in many different languages.
 
+## Books
 
-*Last updated: 15 March 2020*
+If you want to know about the history of Germany and the culture of Germans, I can suggest two books that I liked to read. The first book is "German Men Sit Down To Pee & Other Insights Into German Culture", it is really fun to read. You can see how Germans behave in some situations. Some people might find it interesting but to be honest, most of the things make sense to me. The second book is about the history of Germany. It is called "Germany: Memories of a Nation". This is a nice book to understand the history of Germany. You don't only read about the wars but you also read about the people who changed the things in their field like Martin Luther and the ideas which changed industries like Bauhaus.
+
+
+*Last updated: 03 May 2020*
