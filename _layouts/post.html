@@ -24,28 +24,6 @@ layout: default
 
 </article>
 
-<div class="share-buttons container px-2 mx-auto mb4">
-  <span class="share-text">Share:</span>
-  <a class="twitter-share-button" href="http://twitter.com/intent/tweet?text={{page.title}}&url={{site.url}}{{page.url}}&via=mertbulan" rel="nofollow" target="_blank"
-  data-size="large">Tweet</a>
-</div>
-
 <div class="container mx-auto px-2 py-2 clearfix">
   {% include previous-next.html %}
 </div>
-
-<script async>window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-  return t;
-}(document, "script", "twitter-wjs"));</script>
