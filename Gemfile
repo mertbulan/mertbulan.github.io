@@ -1,13 +1,12 @@
 source "https://rubygems.org"
-ruby "2.3.1"
+ruby "2.5.1"
 
-gem "jekyll", "3.3.1"
-#gem "jekyll-swiss", git: "/Users/mert/Documents/GitHub/swiss"
-gem "jekyll-swiss", github: 'mertbulan/swiss'
-gem 'pygments.rb', '~> 0.6.3'
-gem 'jekyll-paginate'
+gem "jekyll"
+gem 'pygments.rb'
 
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-feed"
    gem 'jekyll-admin'
+   gem 'jekyll-sitemap'
+   gem 'jekyll-paginate'
 end

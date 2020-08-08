@@ -14,14 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mert Bulan
-email: mertbulan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
         My personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mertbulan.com" # the base hostname & protocol for your site, e.g. http://example.com
 enforce_ssl: mertbulan.com
-twitter_username: mertbulan
-github_username:  mertbulan
 permalink: /:year/:month/:day/:title/
 defaults:
   -
@@ -34,7 +31,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 20
 paginate_path: '/page/:num/'
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
