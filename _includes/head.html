@@ -1,28 +1,16 @@
 <head>
+  <title>{% if page.title %}{{ page.title  | escape }}{% else %}{{ site.title | escape }}{% endif %}{% if paginator.page > 1 %} - sayfa {{ paginator.page }}{% endif %}</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>
-    {% if page.title %}
-      {{ page.title  | escape }}
-    {% else %}
-      {{ site.title | escape }}
-    {% endif %}
-    {% if paginator.page > 1 %} - sayfa {{ paginator.page }}{% endif %}
-  </title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <link rel="stylesheet" href="https://mertbulan.com/assets/style.css" async>
-
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.base_url }}{{ "/feed.xml" | relative_url }}">
-
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
   <meta name="twitter:image" content="{{ site.url }}/uploads/{% if page.image %}{{page.image}}{% else %}{{ 'ben.jpg' }}{% endif %}">
-
   <meta property="og:type" content="article" />
   <meta name="og:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}">
+  <link rel="stylesheet" href="https://mertbulan.com/assets/style.css" async>
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.base_url }}{{ "/feed.xml" | relative_url }}">
 </head>
