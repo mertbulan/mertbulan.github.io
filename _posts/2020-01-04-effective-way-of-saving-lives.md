@@ -7,7 +7,7 @@ During my Christmas holiday, I had a chance to read a book called Factfullness. 
 The thing that I liked a lot about the book was the categorizations of the countries. For a very long time, we have been categorizing countries like developed, developing, undeveloped, etc. He mentions that categorizing countries like this doesn't make sense at all. So he comes up with a new idea of the categorization of countries. Simply, he groups countries based on the income level of individuals. There are 4 levels. In the first level, there are countries which have a population who earns less than 2$ per day, in the second level this number is less 8$, in the third level less than 32$ and the last level is for 32$ and more. When you think about this categorization, it makes sense because all the statistics about your country's development (life expectancy, child mortality rate, etc.) depend on the income of citizens. If you earn more, you can have better standards and live longer.
 
 
-![country-levels](/uploads/country-levels.png)
+![A graph that show how many people in the each level](/uploads/country-levels.png)
 
 
 When you look at those groups, you can't imagine how you can live with less than 2$ per day so the author explains how people live at each level:

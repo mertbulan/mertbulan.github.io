@@ -3,7 +3,7 @@
   <div class="col-4 sm-width-full left mr-lg-4 mt-3">
     <a class="no-underline border-top-thin py-1 block" href="{{ page.previous.url | relative_url }}">
       <span class="h5 bold text-accent">Previous</span>
-      <p class="bold h3 link-primary mb-1">{{ page.previous.title }}</p>
+      <h3 class="link-primary mb-1 bold ">{{ page.previous.title }}</h3>
       <p>{{ page.previous.content | strip_html | truncatewords:20 }}</p>
     </a>
   </div>
@@ -12,7 +12,7 @@
   <div class="col-4 sm-width-full left mt-3">
     <a class="no-underline border-top-thin py-1 block" href="{{ page.next.url | relative_url }}">
       <span class="h5 bold text-accent">Next</span>
-      <p class="bold h3 link-primary mb-1">{{ page.next.title }}</p>
+      <h3 class="link-primary mb-1 bold">{{ page.next.title }}</h3>
       <p>{{ page.next.content | strip_html | truncatewords:20 }}</p>
     </a>
   </div>
