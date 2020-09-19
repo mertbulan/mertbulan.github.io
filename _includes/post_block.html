@@ -1,7 +1,7 @@
 <div class="py-2 mb-2 prose">
-  <a class="no-underline h5 bold text-accent" title="{{ post.url | relative_url }}" href="{{ post.url | relative_url }}">
+  <span class="no-underline h5 bold text-accent">
     {% capture date %}{{ post.date }}{% endcapture %}{{ date | date: "%e %B %Y" }}
-  </a>
+  </span>
   <span class="reading-time" title="Estimated read time">
     {% assign words = post.content | number_of_words %}
     {% if words < 360 %}
@@ -11,7 +11,7 @@
     {% endif %}
   </span>
   <h2 class="h1-home lh-condensed col-9 mt-0">
-    <a class="link-primary" title="{{ post.url | relative_url }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <a class="link-primary" title="{{ post.title }}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h2>
   <p>{{ post.content | strip_html | truncatewords:30 }}</p>
 </div>
