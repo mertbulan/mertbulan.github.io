@@ -63,7 +63,7 @@ Once you have your signed contract, do not forget to buy a household insurance. 
 
 In Germany, you have to separate your trash. The most common trash cans that you will see for paper, plastic and metal, residual waste. You will see these trash cans near your home and probably they will have a lock on them since you are paying for the collection only you and your neighbors can throw the trash into those cans. There are also bigger trash cans in your neighborhood that everybody can use for white, green and brown glass. There are also other types of trash cans which are not very common as the ones that I mentioned: electronic, textile and bio. If you have things which are big for these trash cans, you need to call someone and they will pick them up and you might need to pay a fee for that.
 
-There is one important thing about bio trash can, while collection your trash, you should use paper bags because you can't throw a plastic bag into bio trash can. You can find those bags under Bio-Müllbeutel or Biotüten names. Also in some cities, you can get 30 free paper bags with a coupon code. For Hamburg, you can get your coupon code [here.](https://www.stadtreinigung.hamburg/privatkunden/wertstoffe/biotueten/index.html)
+There is one important thing about bio trash can, while collection your trash, you should use paper bags because you can't throw a plastic bag into bio trash can. You can find those bags under Bio-Müllbeutel or Biotüten names. Also in some cities, you can get 30 free paper bags with a coupon code. For Hamburg, you can get your coupon code [from Stadtreinigung.](https://www.stadtreinigung.hamburg/privatkunden/wertstoffe/biotueten/index.html)
 
 ## Silent hours and days (Ruhezeit)
 
