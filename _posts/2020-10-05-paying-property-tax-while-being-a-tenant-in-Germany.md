@@ -13,7 +13,7 @@ Everything started with me checking my Nebenkostenabrechnung papers. If you don'
 
 While checking all the items in the operating costs, one thing took my attention. (actually two things but I will write another blog post for the other thing later). This item is called Grundsteuer which means property tax. This sounded interesting because I don't own the property but I still pay for the tax of that property. I thought this is something that my landlord has to pay, not me.
 
-I started to search on the internet and I found the law, Betriebskostenverordnung, Operating Costs Regulation, or BetrKV in short. (By the way, don't forget it, everything but every single thing is regulated in Germany) While checking the first rule in that law I saw this:
+I started to search on the internet and I found the law, [Betriebskostenverordnung](https://www.gesetze-im-internet.de/betrkv/__2.html), Operating Costs Regulation, or BetrKV in short. (By the way, don't forget it, everything but every single thing is regulated in Germany) While checking the first rule in that law I saw this:
 
 > die laufenden öffentlichen Lasten des Grundstücks, hierzu gehört namentlich die Grundsteuer;
 
