@@ -9,4 +9,4 @@ I am a pragmatic and minimalist person. I like reading, riding my bike and learn
 
 I like creating products that people love.
 
-I am trying to live environmentally friendly. I am vegan, I use renewable energy at home, I commute by bike and I seperate my trashes for recycling. I don't buy products if I don't really need.
+I am trying to live environmentally friendly.
