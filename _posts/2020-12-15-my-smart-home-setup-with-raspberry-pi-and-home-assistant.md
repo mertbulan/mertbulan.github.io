@@ -1,5 +1,5 @@
 ---
-title: Smart home setup with Raspberry Pi and Home Assistant
+title: My smart home setup with Raspberry Pi and Home Assistant
 image: smart-home-home-app.png
 ---
 
