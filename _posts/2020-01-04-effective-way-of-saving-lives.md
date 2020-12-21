@@ -39,4 +39,7 @@ So after getting more information, I set up a monthly standing order for a donat
 
 Note: If you live in Germany, Switzerland, or the Netherlands, you can use [Effective Altruism](https://ea-foundation.org/donate-ea/) website for your donations.
 
+**UPDATE (21 December 2020):**
+
+If you are making donations from Germany, there is a new website now: [Effektive Altruismus](https://effektiveraltruismus.de/donate/)
 
