@@ -4,7 +4,6 @@
     <a class="no-underline border-top-thin py-1 block" href="{{ page.previous.url | relative_url }}">
       <span class="h5 bold text-accent">Previous</span>
       <h3 class="link-primary mb-1 bold ">{{ page.previous.title }}</h3>
-      <p>{{ page.previous.content | strip_html | truncatewords:20 }}</p>
     </a>
   </div>
   {% endif %}
@@ -13,7 +12,6 @@
     <a class="no-underline border-top-thin py-1 block" href="{{ page.next.url | relative_url }}">
       <span class="h5 bold text-accent">Next</span>
       <h3 class="link-primary mb-1 bold">{{ page.next.title }}</h3>
-      <p>{{ page.next.content | strip_html | truncatewords:20 }}</p>
     </a>
   </div>
 {% endif %}
