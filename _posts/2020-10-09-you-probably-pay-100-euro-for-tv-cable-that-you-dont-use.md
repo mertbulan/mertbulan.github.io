@@ -24,3 +24,7 @@ As far as I see, most people have a streaming subscription like Netflix, Apple T
 ### What is next?
 
 I already contacted my landlord to seal the TV cable socket in my flat so I don't pay for the fee. I am looking forward to seeing their reply. I believe that tenants should have their own contracts so nobody would need to pay for something that they don't use. You might say that I already signed the contract, I should have seen it there. Unfornutaley, if you are living in a city like Hamburg, you can't argue about your contract in details. Because the landlords get too many applications and they choose the person that is going to get the flat. If you don't accept the conditions then they can choose another person. Easy. But if there is a regulation for this, then they can't do anything to force their tenats to pay for something that they don't use.
+
+**UPDATE (25 December 2020):**
+
+Interestingly, on 16th of December, there was a news about this topic on [Spiegel](https://www.spiegel.de/wirtschaft/service/tv-kabelanschluesse-sollen-nicht-mehr-ueber-nebenkosten-abgerechnet-werden-a-660a7c33-8c20-4088-beba-6b9bef8948bc). Seems like the government is going to make a change and the tenants will be able to choose their own provider or cancel it completely. I am looking forward to see it!
