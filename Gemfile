@@ -9,4 +9,5 @@ group :jekyll_plugins do
    # gem 'jekyll-admin'
    gem 'jekyll-sitemap'
    gem 'jekyll-paginate'
+   gem 'jekyll-target-blank'
 end
