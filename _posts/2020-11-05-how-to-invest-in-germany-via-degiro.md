@@ -1,6 +1,6 @@
 ---
 title: How to invest and pay your taxes in Germany via DEGIRO
-image: degiro.jpeg
+image: /uploads/degiro.jpeg
 ---
 
 ![DEGIRO logo](/uploads/degiro.jpeg)

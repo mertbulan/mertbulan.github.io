@@ -1,6 +1,6 @@
 ---
 title: 'Should we #EnjoyCapitalism?'
-image: enjoy-capitalism.jpg
+image: /uploads/enjoy-capitalism.jpg
 ---
 
 ![A picture that looks like CocaCola's logo but text is Enjoy Capitalism](/uploads/enjoy-capitalism.jpg)

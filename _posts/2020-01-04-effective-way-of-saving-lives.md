@@ -1,6 +1,6 @@
 ---
 title: Effective way of saving lives in Africa
-image: country-levels.png
+image: /uploads/country-levels.png
 ---
 During my Christmas holiday, I had a chance to read a book called Factfullness. It became a really popular book after Bill Gates's recommendation. The author of the book explains why we are wrong about the world, especially some numbers like life expectancy, child mortality rate in Africa and how we are improving the conditions in our life comparing to 20-30 years ago.
 

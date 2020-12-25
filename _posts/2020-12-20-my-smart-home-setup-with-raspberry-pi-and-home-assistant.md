@@ -1,6 +1,6 @@
 ---
 title: My smart home setup with Raspberry Pi and Home Assistant
-image: smart-home-home-assistant.png
+image: /uploads/smart-home-home-assistant.png
 ---
 
 ![Home Asistant interface](/uploads/smart-home-home-assistant.png)

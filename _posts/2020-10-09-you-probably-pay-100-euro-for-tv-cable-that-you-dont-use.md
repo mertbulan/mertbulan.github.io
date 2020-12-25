@@ -1,6 +1,6 @@
 ---
 title: "You probably pay around 100€/year for TV Cable that you don't use"
-image: tv-cable.jpg
+image: /uploads/tv-cable.jpg
 ---
 
 ![A tv cable cord is being cut by a scissor](/uploads/tv-cable.jpg)
