@@ -22,7 +22,9 @@ The clip starts with showing Roman legions in [Germania Magna](https://en.wikipe
 >
 > Despite several successful campaigns and raids by the Romans in the years after the battle, they never again attempted to conquer the Germanic territories east of the Rhine, except for Germania Superior.
 
-It is not. It is somehow connected but the date doesn't fit. The date, 16 A.D., is the time when a Roman general, [Germanicus](https://en.wikipedia.org/wiki/AD_16#Roman_Empire), had the revenge of that war and defeated [Arminius](https://en.m.wikipedia.org/wiki/Arminius) who was commanding the Germanic Tribes against the Roman Empire during the Battle of the Teutoburg Forest. So the Roman legions that we see in the video are there to get their revenge and they see other Roman legions that were being hanged on a tree.
+It is not. It is somehow connected but the date doesn't fit. The date, 16 A.D., is the time when a Roman general, [Germanicus](https://en.wikipedia.org/wiki/AD_16#Roman_Empire), had the revenge of that war and defeated [Arminius](https://en.m.wikipedia.org/wiki/Arminius) who was commanding the Germanic Tribes against the Roman Empire during the Battle of the Teutoburg Forest. So it is the [Battle of Idistaviso](https://en.wikipedia.org/wiki/Battle_of_Idistaviso):
+
+> The Battle of Idistaviso, sometimes known as a first Battle of Minden or Battle of the Weser River, was fought in 16 AD between Roman legions commanded by Roman emperor Tiberius' heir and adopted son Germanicus, and an alliance of Germanic peoples commanded by Arminius. The battle marked the end of a three-year series of campaigns by Germanicus in Germania.
 
 I believe that the group also thought about this detail and placed the date specifically there because the whole song is about a conflict that our protagonist is living. You will see this conflict more in the lyrics.
 
