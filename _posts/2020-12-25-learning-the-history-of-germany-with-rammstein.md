@@ -26,7 +26,7 @@ It is not. It is somehow connected but the date doesn't fit. The date, 16 A.D., 
 
 > The Battle of Idistaviso, sometimes known as a first Battle of Minden or Battle of the Weser River, was fought in 16 AD between Roman legions commanded by Roman emperor Tiberius' heir and adopted son Germanicus, and an alliance of Germanic peoples commanded by Arminius. The battle marked the end of a three-year series of campaigns by Germanicus in Germania.
 
-I believe that the group also thought about this detail and placed the date specifically there because the whole song is about a conflict that our protagonist is living. You will see this conflict more in the lyrics.
+I believe that the group also thought about this detail and placed the date specifically there because the whole song is about a conflict that our protagonist is living. There is a victory but also a defeat. There is a new invention but it is used for killing people. There is richness but it is artifical. You will see this conflict more in the lyrics.
 
 #### More information
 
@@ -38,7 +38,7 @@ You can also visit [The Hermannsdenkmal](https://en.wikipedia.org/wiki/Hermannsd
 
 ![](/uploads/deutschland/2.png)
 
-In this scene, you see a black woman ([Ruby Commey](https://en.wikipedia.org/wiki/Ruby_Commey), she is German) who is cutting a Roman legion's (who is the lead vocalist of Rammstein, [Till lindemann](https://en.wikipedia.org/wiki/Till_Lindemann)) head. You will see her many times during the clip and you might think that she is representing someone but she is the personification of Germany, [Germania](https://en.wikipedia.org/wiki/Germania_(personification)). There is also a dog next to her that you will also see quite often during the video.
+In this scene, you see a black woman ([Ruby Commey](https://en.wikipedia.org/wiki/Ruby_Commey), she is German) who is cutting a Roman legion's (who is the lead vocalist of Rammstein, [Till Lindemann](https://en.wikipedia.org/wiki/Till_Lindemann)) head. You will see her many times during the clip and you might think that she is representing someone but she is the personification of Germany, [Germania](https://en.wikipedia.org/wiki/Germania_(personification)). There is also a dog next to her that you will also see quite often during the video.
 
 ## Statues
 
@@ -96,7 +96,7 @@ If you are wondering like me, why some of [the statuses have broken noses](https
 
 ![](/uploads/deutschland/10.png)
 
-In the second scene, we see astronauts, a coffin, and a submarine. I will come back to the coffin and the astronauts later because we need to watch the clip more to understand the connections. So for now, let's continue with the submarine (U-boat).
+In the second scene, we see astronauts, a coffin, and a submarine. I will come back to the coffin and the astronauts later because we need to watch the clip more to understand the connections. So for now, let's continue with the submarine (U-Boot).
 
 When I looked at [the most successful German submarines](https://en.wikipedia.org/wiki/List_of_most_successful_German_U-boats) on Wikipedia, I found that the submarine that we see is similar to [Type VII](https://en.wikipedia.org/wiki/Type_VII_submarine) submarine.
 
