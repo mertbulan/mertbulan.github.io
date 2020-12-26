@@ -1,6 +1,6 @@
 ---
 title: How to get rid of cookie consent banners
-image: /uploads/cookie-monster.png
+image: /uploads/cookie/cookie-monster.png
 ---
 ![Cookie Monster](/uploads/cookie/cookie-monster.png)
 
