@@ -10,7 +10,8 @@
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_newlines }}{% endif %}">
   <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{page.image}}{% else %}{{ 'ben.jpg' }}{% endif %}">
   <meta property="og:type" content="article" />
-  <meta name="og:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{{page.image}}">
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.base_url }}{{ "/feed.xml" | relative_url }}">
   <style type="text/css">
