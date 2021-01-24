@@ -62,9 +62,11 @@ Back to the device, I bought two [AVM FRITZ!DECK 301](https://www.amazon.de/-/en
 I have been using them like this since September and based on my calculations, I am expecting to get around 50€ back from my landlord from 480€ that I paid as heating cost. I also realized that I wasted so much energy at the beginning of the year because I just left the valves as they are for 4 months, but next year, I am expecting to get around 125€ back based on my calculations, but of course I am assuming that I am going to work from home until April. Otherwise, the money that I going to save would be around 175€ because there will be no reason to keep the temperature at 22 °C in my living room when I am at the office.
 
 
-#### Sensor
+#### Sensors
 
-In the beginning, I was planning to put a sensor in each room but then after buying the smart radiator controllers, I didn't see any reason to buy them because those controllers also show the current temperature in the rooms. I bought only one [Aqara Smart Temperature and Humidity Sensor](https://www.aqara.com/en/temperature_humidity_sensor.html) for 16,69€ and placed it in my kitchen. To be able to connect this sensor to the hub, I had to buy RaspBee as I mentioned before. With [deCONZ integration](https://www.home-assistant.io/integrations/deconz/), I easily connected to my Home Assistant setup.
+In the beginning, I was planning to put a temprature sensor in each room but then after buying the smart radiator controllers, I didn't see any reason to buy them because those controllers also show the current temperature in the rooms. I bought only one [Aqara Smart Temperature and Humidity Sensor](https://www.aqara.com/en/temperature_humidity_sensor.html) for 16,69€ and placed it in my kitchen. To be able to connect this sensor to the hub, I had to buy RaspBee as I mentioned before. With [deCONZ integration](https://www.home-assistant.io/integrations/deconz/), I easily connected to my Home Assistant setup.
+
+The second sensor that I connected to my hub is [Aqara Vibration Sensor](https://www.aqara.com/eu/vibration_sensor.html). I connected it as the same way as I connected the temprature sensor. I used this motion sensor for mail physical mailbox. I put the sensor inside of my mailbox and whenever I receive a letter, I get a notification on my iPhone and MacBook.
 
 #### Air
 

@@ -38,3 +38,7 @@ If you want to disable Reader View for a website, you can do it at the same plac
 
 
 Now, I can enjoy surfing on the internet again. Thanks, Apple!
+
+**UPDATE (24 January 2021):**
+
+After writing this blog post, I used the settings that I mentioned here for almost one month. Then, I realized that Reader Mode works really nice for news websites but on the other hand, it also tries to open normal webpages (for example, GitHub) in Reader Mode and this is really annoying. Yesterday, I saw an extension (Hush) for both iPhone and Mac that addresses exactly the same issue that I mentioned here. I started to use it and so far, it works perfectly. You can install this open source extension [here](https://oblador.github.io/hush/) and get rid of the cookie banners.
