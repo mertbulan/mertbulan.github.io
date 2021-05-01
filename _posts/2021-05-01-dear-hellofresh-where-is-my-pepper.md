@@ -30,5 +30,5 @@ There a few other problems that are annoying me:
 - Sometimes, they say that you can find sugar or balsamic vinegar at home but sometimes they send them. So I assume that there is a profit margin for each meal and to be able to reach that margin, sometimes they are putting these items and sometimes they don't and this is annoying.
 - Normally, if I buy something from the supermarket, I always try to buy Bio certificated products but I didn't see anything about Bio certificate on HelloFresh's website. They mention many times that the products are high quality but there is not mention to any certificate.
 
-I like HelloFresh. I will probably keep ordering and recommending it to my friends. I hope they will solve these small issues that I mentioned soon so I don't get annoyed every week while cooking. #FirstWorldProblems
+I like HelloFresh. I will probably keep ordering and recommending it to my friends. (You can get 25€ discount for your first box if you register from this [link](https://www.hellofresh.de/pages/raf_lp11?c=HS-01JIRP6L3&utm_campaign=clipboard&utm_couponvalue=20&utm_invitername=Mert&utm_medium=referral&utm_source=raf-share)) I hope they will solve the issues that I mentioned soon so I don't get annoyed every week while cooking. #FirstWorldProblems
 
