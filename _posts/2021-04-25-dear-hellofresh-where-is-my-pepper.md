@@ -1,6 +1,6 @@
 ---
 title: Dear HelloFresh, where is my pepper?
-image: /uploads/hello-fresh.png
+image: /uploads/hello-fresh-pepper.png
 ---
 
 ![Hello Fresh Logo](/uploads/hello-fresh-pepper.png)
