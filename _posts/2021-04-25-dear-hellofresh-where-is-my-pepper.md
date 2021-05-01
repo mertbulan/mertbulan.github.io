@@ -23,12 +23,12 @@ If this happened one or two times, it would be okay for me but they still can't 
 
 This is annoying for me. Because, first, the recipe changes when there is a replacement in the box. So you can't follow the recipe card that is sent to you. Then, the most important thing for me, the taste changes too. As you know, pepper is something that has a dominant taste, and the replacement that they send doesn't have that much taste. (think about zucchini and mushroom) So, in the end, the experience that you would normally expect from a HelloFresh box changes. Of course, I can buy pepper from the supermarket but that also changes the whole experience and I would need to spend extra money on that. As a solution, I would expect HelloFresh to have an option for getting a few Euros back instead of getting a replacement.  Even though this is still not a good experience, I can still follow the correct recipe and eat my delicious meal.
 
-
-There a few other tiny problems that are annoying me:
+There a few other problems that are annoying me:
 
 - Sometimes, they forget to put the item into the box. So far, I didn't receive one eggplant, one package of Aioli sauce, one package of sugar. That's annoying for me because, during the day, I decided to cook one of the meals, then I realize that one item is missing. If I don't have the item at home, I need to buy it or cook my meal without that item. This would change the taste as you can expect.
 - Sometimes, they are sending more than what is needed in the recipe. For example, they sent 500ml coconut milk instead of 250ml and so on. This is annoying because I have no idea what to do for the rest of the item, and in most cases, they will get wasted but that's one of the selling points of HelloFresh, so they are conflicting with their promise.
 - Sometimes, they say that you can find sugar or balsamic vinegar at home but sometimes they send them. So I assume that there is a profit margin for each meal and to be able to reach that margin, sometimes they are putting these items and sometimes they don't and this is annoying.
+- Normally, if I buy something from the supermarket, I always try to buy Bio certificated products but I didn't see anything about Bio certificate on HelloFresh's website. They mention many times that the products are high quality but there is not mention to any certificate.
 
 I like HelloFresh. I will probably keep ordering and recommending it to my friends. I hope they will solve these small issues that I mentioned soon so I don't get annoyed every week while cooking. #FirstWorldProblems
 
