@@ -29,6 +29,16 @@ There a few other problems that are annoying me:
 - Sometimes, they are sending more than what is needed in the recipe. For example, they sent 500ml coconut milk instead of 250ml and so on. This is annoying because I have no idea what to do for the rest of the item, and in most cases, they will get wasted but that's one of the selling points of HelloFresh, so they are conflicting with their promise.
 - Sometimes, they say that you can find sugar or balsamic vinegar at home but sometimes they send them. So I assume that there is a profit margin for each meal and to be able to reach that margin, sometimes they are putting these items and sometimes they don't and this is annoying.
 - Normally, if I buy something from the supermarket, I always try to buy Bio certificated products but I didn't see anything about Bio certificate on HelloFresh's website. They mention many times that the products are high quality but there is not mention to any certificate.
+- The maximum number of meals per box is limited to 5. I would prefer to have 7 meals in my box so I wouldn't need to think about what to cook in those 2 days.
 
 I like HelloFresh. I will probably keep ordering and recommending it to my friends. (You can get 25€ discount for your first box if you register from this [link](https://www.hellofresh.de/pages/raf_lp11?c=HS-01JIRP6L3&utm_campaign=clipboard&utm_couponvalue=20&utm_invitername=Mert&utm_medium=referral&utm_source=raf-share)) I hope they will solve the issues that I mentioned soon so I don't get annoyed every week while cooking. #FirstWorldProblems
+
+**UPDATE (6 May 2021):**
+
+Today, I received my HelloFresh box for this week. There were two interesting things that I would like to share:
+
+- HelloFresh gave me 7€ credit because of the missing peppers. (My two meals include pepper, they put eggplant and zucchini instead)
+- Seems like HelloFresh started to replace pepper on their recipe card. In the pictures, you can still see pepper but in the recipe, you see the replacement vegetable and how to cut it, etc.
+
+I don't know if someone from HelloFresh read my blog post but it is really nice to see that they are aware of the issues and they are working on them.
 
