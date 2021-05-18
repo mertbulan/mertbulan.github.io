@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.5.1"
+ruby "3.0.1"
 
 gem "jekyll"
 gem 'pygments.rb'
@@ -11,3 +11,5 @@ group :jekyll_plugins do
    gem 'jekyll-paginate'
    gem 'jekyll-target-blank'
 end
+
+# gem 'webrick'
